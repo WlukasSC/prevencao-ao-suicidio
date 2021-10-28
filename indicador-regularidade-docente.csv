@@ -1,0 +1,2630 @@
+ANO,REGIAO,SIGLA_UF,COD_MUNICIPIO,NOME_MUNICIPIO,LOCALIZACAO,DEPEND_ADMINISTRATIVA,BAIXA_REGULARIDADE,BAIXA-MEDIA,MEDIA-ALTA,ALTA
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Urbana,Estadual,0.0,80.0,20.0,0.0
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Rural,Estadual,0.0,25.0,37.5,37.5
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Urbana,Municipal,0.0,55.6,44.4,0.0
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Rural,Municipal,0.0,14.3,71.4,14.3
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Urbana,Pública,0.0,64.3,35.7,0.0
+2020,Norte,RO,1100015,Alta Floresta D'Oeste,Rural,Pública,0.0,20.0,53.3,26.7
+2020,Norte,RO,1100023,Ariquemes,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100023,Ariquemes,Urbana,Estadual,0.0,30.0,70.0,0.0
+2020,Norte,RO,1100023,Ariquemes,Urbana,Municipal,0.0,10.5,73.7,15.8
+2020,Norte,RO,1100023,Ariquemes,Rural,Municipal,0.0,0.0,85.7,14.3
+2020,Norte,RO,1100023,Ariquemes,Urbana,Privada,9.1,27.3,54.5,9.1
+2020,Norte,RO,1100023,Ariquemes,Urbana,Pública,0.0,17.2,72.4,10.4
+2020,Norte,RO,1100023,Ariquemes,Rural,Pública,0.0,0.0,87.5,12.5
+2020,Norte,RO,1100031,Cabixi,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100031,Cabixi,Rural,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,RO,1100031,Cabixi,Urbana,Municipal,25.0,0.0,50.0,25.0
+2020,Norte,RO,1100031,Cabixi,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100031,Cabixi,Urbana,Pública,16.7,0.0,66.7,16.6
+2020,Norte,RO,1100031,Cabixi,Rural,Pública,0.0,0.0,50.0,50.0
+2020,Norte,RO,1100049,Cacoal,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100049,Cacoal,Urbana,Estadual,0.0,26.7,73.3,0.0
+2020,Norte,RO,1100049,Cacoal,Rural,Estadual,0.0,37.5,37.5,25.0
+2020,Norte,RO,1100049,Cacoal,Urbana,Municipal,0.0,14.3,50.0,35.7
+2020,Norte,RO,1100049,Cacoal,Rural,Municipal,0.0,30.0,70.0,0.0
+2020,Norte,RO,1100049,Cacoal,Urbana,Privada,40.0,20.0,30.0,10.0
+2020,Norte,RO,1100049,Cacoal,Rural,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100049,Cacoal,Urbana,Pública,0.0,20.0,63.3,16.7
+2020,Norte,RO,1100049,Cacoal,Rural,Pública,0.0,33.3,55.6,11.1
+2020,Norte,RO,1100056,Cerejeiras,Urbana,Estadual,0.0,20.0,80.0,0.0
+2020,Norte,RO,1100056,Cerejeiras,Urbana,Municipal,0.0,14.3,85.7,0.0
+2020,Norte,RO,1100056,Cerejeiras,Urbana,Privada,50.0,50.0,0.0,0.0
+2020,Norte,RO,1100056,Cerejeiras,Urbana,Pública,0.0,16.7,83.3,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Rural,Federal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Rural,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Urbana,Privada,50.0,0.0,50.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100064,Colorado do Oeste,Rural,Pública,0.0,40.0,60.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100072,Corumbiara,Rural,Pública,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100080,Costa Marques,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100080,Costa Marques,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100080,Costa Marques,Urbana,Municipal,14.3,28.6,57.1,0.0
+2020,Norte,RO,1100080,Costa Marques,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,RO,1100080,Costa Marques,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100080,Costa Marques,Urbana,Pública,10.0,30.0,60.0,0.0
+2020,Norte,RO,1100080,Costa Marques,Rural,Pública,0.0,0.0,75.0,25.0
+2020,Norte,RO,1100098,Espigão D'Oeste,Urbana,Estadual,0.0,57.1,42.9,0.0
+2020,Norte,RO,1100098,Espigão D'Oeste,Rural,Estadual,33.3,16.7,33.3,16.7
+2020,Norte,RO,1100098,Espigão D'Oeste,Urbana,Municipal,0.0,16.7,50.0,33.3
+2020,Norte,RO,1100098,Espigão D'Oeste,Rural,Municipal,0.0,33.3,33.3,33.4
+2020,Norte,RO,1100098,Espigão D'Oeste,Urbana,Privada,50.0,0.0,0.0,50.0
+2020,Norte,RO,1100098,Espigão D'Oeste,Urbana,Pública,0.0,38.5,46.2,15.3
+2020,Norte,RO,1100098,Espigão D'Oeste,Rural,Pública,22.2,22.2,33.3,22.3
+2020,Norte,RO,1100106,Guajará-Mirim,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100106,Guajará-Mirim,Urbana,Estadual,0.0,55.6,44.4,0.0
+2020,Norte,RO,1100106,Guajará-Mirim,Rural,Estadual,0.0,11.1,55.6,33.3
+2020,Norte,RO,1100106,Guajará-Mirim,Urbana,Municipal,0.0,30.8,69.2,0.0
+2020,Norte,RO,1100106,Guajará-Mirim,Urbana,Privada,0.0,60.0,40.0,0.0
+2020,Norte,RO,1100106,Guajará-Mirim,Urbana,Pública,0.0,43.5,56.5,0.0
+2020,Norte,RO,1100106,Guajará-Mirim,Rural,Pública,0.0,11.1,55.6,33.3
+2020,Norte,RO,1100114,Jaru,Urbana,Estadual,0.0,27.3,72.7,0.0
+2020,Norte,RO,1100114,Jaru,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100114,Jaru,Urbana,Municipal,14.3,78.6,7.1,0.0
+2020,Norte,RO,1100114,Jaru,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100114,Jaru,Urbana,Privada,16.7,50.0,33.3,0.0
+2020,Norte,RO,1100114,Jaru,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100114,Jaru,Urbana,Pública,8.0,56.0,36.0,0.0
+2020,Norte,RO,1100114,Jaru,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100122,Ji-Paraná,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100122,Ji-Paraná,Urbana,Estadual,0.0,35.5,61.3,3.2
+2020,Norte,RO,1100122,Ji-Paraná,Rural,Estadual,10.0,10.0,40.0,40.0
+2020,Norte,RO,1100122,Ji-Paraná,Urbana,Municipal,0.0,47.4,47.4,5.2
+2020,Norte,RO,1100122,Ji-Paraná,Rural,Municipal,0.0,22.2,33.3,44.5
+2020,Norte,RO,1100122,Ji-Paraná,Urbana,Privada,0.0,35.7,64.3,0.0
+2020,Norte,RO,1100122,Ji-Paraná,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100122,Ji-Paraná,Urbana,Pública,0.0,41.2,54.9,3.9
+2020,Norte,RO,1100122,Ji-Paraná,Rural,Pública,5.3,15.8,36.8,42.1
+2020,Norte,RO,1100130,Machadinho D'Oeste,Urbana,Estadual,0.0,40.0,60.0,0.0
+2020,Norte,RO,1100130,Machadinho D'Oeste,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100130,Machadinho D'Oeste,Rural,Municipal,46.2,30.8,0.0,23.0
+2020,Norte,RO,1100130,Machadinho D'Oeste,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100130,Machadinho D'Oeste,Urbana,Pública,0.0,46.2,53.8,0.0
+2020,Norte,RO,1100130,Machadinho D'Oeste,Rural,Pública,46.2,30.8,0.0,23.0
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Rural,Municipal,0.0,0.0,33.3,66.7
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Urbana,Pública,0.0,14.3,85.7,0.0
+2020,Norte,RO,1100148,Nova Brasilândia D'Oeste,Rural,Pública,0.0,0.0,33.3,66.7
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Urbana,Estadual,0.0,42.9,57.1,0.0
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Urbana,Municipal,0.0,8.3,83.3,8.4
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Rural,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Urbana,Privada,0.0,66.7,33.3,0.0
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Urbana,Pública,0.0,21.1,73.7,5.2
+2020,Norte,RO,1100155,Ouro Preto do Oeste,Rural,Pública,0.0,66.7,33.3,0.0
+2020,Norte,RO,1100189,Pimenta Bueno,Urbana,Estadual,0.0,42.9,57.1,0.0
+2020,Norte,RO,1100189,Pimenta Bueno,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100189,Pimenta Bueno,Urbana,Municipal,0.0,0.0,71.4,28.6
+2020,Norte,RO,1100189,Pimenta Bueno,Rural,Municipal,0.0,0.0,33.3,66.7
+2020,Norte,RO,1100189,Pimenta Bueno,Urbana,Privada,66.7,0.0,33.3,0.0
+2020,Norte,RO,1100189,Pimenta Bueno,Urbana,Pública,0.0,21.4,64.3,14.3
+2020,Norte,RO,1100189,Pimenta Bueno,Rural,Pública,0.0,0.0,42.9,57.1
+2020,Norte,RO,1100205,Porto Velho,Urbana,Federal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100205,Porto Velho,Urbana,Estadual,1.6,15.9,79.4,3.1
+2020,Norte,RO,1100205,Porto Velho,Rural,Estadual,0.0,33.3,33.3,33.4
+2020,Norte,RO,1100205,Porto Velho,Urbana,Municipal,0.0,11.3,70.0,18.7
+2020,Norte,RO,1100205,Porto Velho,Rural,Municipal,5.6,14.8,50.0,29.6
+2020,Norte,RO,1100205,Porto Velho,Urbana,Privada,18.4,16.3,51.0,14.3
+2020,Norte,RO,1100205,Porto Velho,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100205,Porto Velho,Urbana,Pública,0.7,13.8,73.8,11.7
+2020,Norte,RO,1100205,Porto Velho,Rural,Pública,4.2,19.4,45.8,30.6
+2020,Norte,RO,1100254,Presidente Médici,Urbana,Estadual,0.0,14.3,71.4,14.3
+2020,Norte,RO,1100254,Presidente Médici,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100254,Presidente Médici,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100254,Presidente Médici,Rural,Municipal,40.0,40.0,20.0,0.0
+2020,Norte,RO,1100254,Presidente Médici,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100254,Presidente Médici,Urbana,Pública,0.0,9.1,81.8,9.1
+2020,Norte,RO,1100254,Presidente Médici,Rural,Pública,33.3,33.3,33.4,0.0
+2020,Norte,RO,1100262,Rio Crespo,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,RO,1100262,Rio Crespo,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100262,Rio Crespo,Urbana,Pública,0.0,33.3,33.3,33.4
+2020,Norte,RO,1100288,Rolim de Moura,Urbana,Estadual,0.0,58.3,41.7,0.0
+2020,Norte,RO,1100288,Rolim de Moura,Urbana,Municipal,0.0,14.3,71.4,14.3
+2020,Norte,RO,1100288,Rolim de Moura,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100288,Rolim de Moura,Urbana,Privada,33.3,0.0,66.7,0.0
+2020,Norte,RO,1100288,Rolim de Moura,Urbana,Pública,0.0,42.1,52.6,5.3
+2020,Norte,RO,1100288,Rolim de Moura,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100296,Santa Luzia D'Oeste,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100296,Santa Luzia D'Oeste,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100296,Santa Luzia D'Oeste,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100304,Vilhena,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100304,Vilhena,Urbana,Estadual,8.3,25.0,66.7,0.0
+2020,Norte,RO,1100304,Vilhena,Rural,Estadual,0.0,66.7,0.0,33.3
+2020,Norte,RO,1100304,Vilhena,Urbana,Municipal,4.3,8.7,65.2,21.8
+2020,Norte,RO,1100304,Vilhena,Rural,Municipal,25.0,0.0,50.0,25.0
+2020,Norte,RO,1100304,Vilhena,Urbana,Privada,18.2,18.2,54.5,9.1
+2020,Norte,RO,1100304,Vilhena,Urbana,Pública,5.6,13.9,66.7,13.8
+2020,Norte,RO,1100304,Vilhena,Rural,Pública,14.3,28.6,28.6,28.5
+2020,Norte,RO,1100320,São Miguel do Guaporé,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100320,São Miguel do Guaporé,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100320,São Miguel do Guaporé,Rural,Municipal,0.0,44.4,44.4,11.2
+2020,Norte,RO,1100320,São Miguel do Guaporé,Urbana,Pública,0.0,28.6,71.4,0.0
+2020,Norte,RO,1100320,São Miguel do Guaporé,Rural,Pública,0.0,44.4,44.4,11.2
+2020,Norte,RO,1100338,Nova Mamoré,Urbana,Estadual,0.0,20.0,80.0,0.0
+2020,Norte,RO,1100338,Nova Mamoré,Rural,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,RO,1100338,Nova Mamoré,Urbana,Municipal,14.3,14.3,42.9,28.5
+2020,Norte,RO,1100338,Nova Mamoré,Rural,Municipal,37.5,20.0,22.5,20.0
+2020,Norte,RO,1100338,Nova Mamoré,Urbana,Privada,33.3,33.3,33.4,0.0
+2020,Norte,RO,1100338,Nova Mamoré,Urbana,Pública,8.3,16.7,58.3,16.7
+2020,Norte,RO,1100338,Nova Mamoré,Rural,Pública,34.1,25.0,22.7,18.2
+2020,Norte,RO,1100346,Alvorada D'Oeste,Urbana,Estadual,0.0,0.0,75.0,25.0
+2020,Norte,RO,1100346,Alvorada D'Oeste,Urbana,Municipal,0.0,42.9,57.1,0.0
+2020,Norte,RO,1100346,Alvorada D'Oeste,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100346,Alvorada D'Oeste,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100346,Alvorada D'Oeste,Urbana,Pública,0.0,27.3,63.6,9.1
+2020,Norte,RO,1100346,Alvorada D'Oeste,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Urbana,Municipal,0.0,75.0,25.0,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Rural,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,RO,1100379,Alto Alegre dos Parecis,Rural,Pública,0.0,33.3,50.0,16.7
+2020,Norte,RO,1100403,Alto Paraíso,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100403,Alto Paraíso,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100403,Alto Paraíso,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100403,Alto Paraíso,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100403,Alto Paraíso,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100403,Alto Paraíso,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100452,Buritis,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100452,Buritis,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100452,Buritis,Rural,Municipal,22.2,44.4,22.2,11.2
+2020,Norte,RO,1100452,Buritis,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100452,Buritis,Urbana,Pública,0.0,70.0,30.0,0.0
+2020,Norte,RO,1100452,Buritis,Rural,Pública,22.2,44.4,22.2,11.2
+2020,Norte,RO,1100502,Novo Horizonte do Oeste,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100502,Novo Horizonte do Oeste,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100502,Novo Horizonte do Oeste,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100502,Novo Horizonte do Oeste,Urbana,Pública,0.0,42.9,57.1,0.0
+2020,Norte,RO,1100601,Cacaulândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100601,Cacaulândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100601,Cacaulândia,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100601,Cacaulândia,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100601,Cacaulândia,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Rural,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100700,Campo Novo de Rondônia,Rural,Pública,0.0,40.0,60.0,0.0
+2020,Norte,RO,1100809,Candeias do Jamari,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,RO,1100809,Candeias do Jamari,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100809,Candeias do Jamari,Urbana,Municipal,11.1,55.6,33.3,0.0
+2020,Norte,RO,1100809,Candeias do Jamari,Rural,Municipal,0.0,25.0,25.0,50.0
+2020,Norte,RO,1100809,Candeias do Jamari,Urbana,Pública,7.7,46.2,46.1,0.0
+2020,Norte,RO,1100809,Candeias do Jamari,Rural,Pública,0.0,20.0,40.0,40.0
+2020,Norte,RO,1100908,Castanheiras,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100908,Castanheiras,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100908,Castanheiras,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100908,Castanheiras,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100924,Chupinguaia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100924,Chupinguaia,Rural,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,RO,1100924,Chupinguaia,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1100924,Chupinguaia,Rural,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,RO,1100924,Chupinguaia,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,RO,1100924,Chupinguaia,Rural,Pública,11.1,44.4,44.5,0.0
+2020,Norte,RO,1100940,Cujubim,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1100940,Cujubim,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1100940,Cujubim,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RO,1100940,Cujubim,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,RO,1100940,Cujubim,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,RO,1100940,Cujubim,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Rural,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Rural,Municipal,20.0,40.0,40.0,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101005,Governador Jorge Teixeira,Rural,Pública,11.1,55.6,33.3,0.0
+2020,Norte,RO,1101104,Itapuã do Oeste,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101104,Itapuã do Oeste,Urbana,Municipal,25.0,50.0,25.0,0.0
+2020,Norte,RO,1101104,Itapuã do Oeste,Rural,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101104,Itapuã do Oeste,Urbana,Pública,16.7,50.0,33.3,0.0
+2020,Norte,RO,1101104,Itapuã do Oeste,Rural,Pública,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101203,Ministro Andreazza,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101203,Ministro Andreazza,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,RO,1101203,Ministro Andreazza,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101203,Ministro Andreazza,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101203,Ministro Andreazza,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101203,Ministro Andreazza,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,RO,1101302,Mirante da Serra,Urbana,Estadual,0.0,33.3,33.3,33.4
+2020,Norte,RO,1101302,Mirante da Serra,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101302,Mirante da Serra,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,RO,1101302,Mirante da Serra,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RO,1101302,Mirante da Serra,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1101302,Mirante da Serra,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101302,Mirante da Serra,Urbana,Pública,0.0,16.7,50.0,33.3
+2020,Norte,RO,1101302,Mirante da Serra,Rural,Pública,0.0,25.0,75.0,0.0
+2020,Norte,RO,1101401,Monte Negro,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101401,Monte Negro,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101401,Monte Negro,Rural,Municipal,0.0,75.0,25.0,0.0
+2020,Norte,RO,1101401,Monte Negro,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101401,Monte Negro,Rural,Pública,0.0,75.0,25.0,0.0
+2020,Norte,RO,1101435,Nova União,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101435,Nova União,Urbana,Municipal,50.0,0.0,50.0,0.0
+2020,Norte,RO,1101435,Nova União,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101435,Nova União,Urbana,Pública,33.3,0.0,66.7,0.0
+2020,Norte,RO,1101435,Nova União,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101450,Parecis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101450,Parecis,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101450,Parecis,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,RO,1101450,Parecis,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101450,Parecis,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101450,Parecis,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101468,Pimenteiras do Oeste,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101468,Pimenteiras do Oeste,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101468,Pimenteiras do Oeste,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RO,1101476,Primavera de Rondônia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101476,Primavera de Rondônia,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101476,Primavera de Rondônia,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101476,Primavera de Rondônia,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,RO,1101476,Primavera de Rondônia,Urbana,Pública,0.0,0.0,66.7,33.3
+2020,Norte,RO,1101476,Primavera de Rondônia,Rural,Pública,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101484,São Felipe D'Oeste,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101484,São Felipe D'Oeste,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,RO,1101484,São Felipe D'Oeste,Urbana,Pública,0.0,20.0,60.0,20.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Rural,Municipal,20.0,60.0,20.0,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Rural,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101492,São Francisco do Guaporé,Rural,Pública,16.7,66.7,16.6,0.0
+2020,Norte,RO,1101500,Seringueiras,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,RO,1101500,Seringueiras,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101500,Seringueiras,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101500,Seringueiras,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1101500,Seringueiras,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,RO,1101500,Seringueiras,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101559,Teixeirópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101559,Teixeirópolis,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101559,Teixeirópolis,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101559,Teixeirópolis,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101559,Teixeirópolis,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101609,Theobroma,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101609,Theobroma,Urbana,Municipal,0.0,50.0,0.0,50.0
+2020,Norte,RO,1101609,Theobroma,Rural,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,RO,1101609,Theobroma,Urbana,Pública,0.0,33.3,33.3,33.4
+2020,Norte,RO,1101609,Theobroma,Rural,Pública,0.0,40.0,60.0,0.0
+2020,Norte,RO,1101708,Urupá,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,RO,1101708,Urupá,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RO,1101708,Urupá,Rural,Municipal,25.0,50.0,25.0,0.0
+2020,Norte,RO,1101708,Urupá,Urbana,Pública,0.0,50.0,25.0,25.0
+2020,Norte,RO,1101708,Urupá,Rural,Pública,25.0,50.0,25.0,0.0
+2020,Norte,RO,1101757,Vale do Anari,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101757,Vale do Anari,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RO,1101757,Vale do Anari,Rural,Municipal,50.0,50.0,0.0,0.0
+2020,Norte,RO,1101757,Vale do Anari,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RO,1101757,Vale do Anari,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RO,1101757,Vale do Anari,Rural,Pública,50.0,50.0,0.0,0.0
+2020,Norte,RO,1101807,Vale do Paraíso,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RO,1101807,Vale do Paraíso,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,RO,1101807,Vale do Paraíso,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,RO,1101807,Vale do Paraíso,Rural,Privada,0.0,0.0,0.0,100.0
+2020,Norte,RO,1101807,Vale do Paraíso,Urbana,Pública,0.0,0.0,75.0,25.0
+2020,Norte,RO,1101807,Vale do Paraíso,Rural,Pública,0.0,0.0,0.0,100.0
+2020,Norte,AC,1200013,Acrelândia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200013,Acrelândia,Rural,Estadual,66.7,0.0,33.3,0.0
+2020,Norte,AC,1200013,Acrelândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200013,Acrelândia,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200013,Acrelândia,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,AC,1200013,Acrelândia,Rural,Pública,33.3,50.0,16.7,0.0
+2020,Norte,AC,1200054,Assis Brasil,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200054,Assis Brasil,Rural,Estadual,61.5,34.6,0.0,3.9
+2020,Norte,AC,1200054,Assis Brasil,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200054,Assis Brasil,Rural,Municipal,45.2,45.2,9.6,0.0
+2020,Norte,AC,1200054,Assis Brasil,Urbana,Pública,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200054,Assis Brasil,Rural,Pública,52.6,40.4,5.3,1.7
+2020,Norte,AC,1200104,Brasiléia,Urbana,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,AC,1200104,Brasiléia,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200104,Brasiléia,Urbana,Municipal,0.0,57.1,42.9,0.0
+2020,Norte,AC,1200104,Brasiléia,Rural,Municipal,64.0,28.0,8.0,0.0
+2020,Norte,AC,1200104,Brasiléia,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200104,Brasiléia,Urbana,Pública,0.0,63.6,36.4,0.0
+2020,Norte,AC,1200104,Brasiléia,Rural,Pública,61.5,30.8,7.7,0.0
+2020,Norte,AC,1200138,Bujari,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200138,Bujari,Rural,Estadual,47.1,41.2,5.9,5.8
+2020,Norte,AC,1200138,Bujari,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200138,Bujari,Rural,Municipal,36.4,45.5,9.1,9.0
+2020,Norte,AC,1200138,Bujari,Urbana,Pública,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200138,Bujari,Rural,Pública,42.9,42.9,7.1,7.1
+2020,Norte,AC,1200179,Capixaba,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200179,Capixaba,Rural,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AC,1200179,Capixaba,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AC,1200179,Capixaba,Rural,Municipal,44.4,22.2,11.1,22.3
+2020,Norte,AC,1200179,Capixaba,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,AC,1200179,Capixaba,Rural,Pública,45.5,27.3,9.1,18.1
+2020,Norte,AC,1200203,Cruzeiro do Sul,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200203,Cruzeiro do Sul,Urbana,Estadual,47.8,52.2,0.0,0.0
+2020,Norte,AC,1200203,Cruzeiro do Sul,Rural,Estadual,34.9,51.2,9.3,4.6
+2020,Norte,AC,1200203,Cruzeiro do Sul,Urbana,Municipal,3.1,43.8,53.1,0.0
+2020,Norte,AC,1200203,Cruzeiro do Sul,Rural,Municipal,20.3,51.6,25.0,3.1
+2020,Norte,AC,1200203,Cruzeiro do Sul,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,AC,1200203,Cruzeiro do Sul,Urbana,Pública,21.4,46.4,32.2,0.0
+2020,Norte,AC,1200203,Cruzeiro do Sul,Rural,Pública,26.2,51.4,18.7,3.7
+2020,Norte,AC,1200252,Epitaciolândia,Urbana,Estadual,33.3,66.7,0.0,0.0
+2020,Norte,AC,1200252,Epitaciolândia,Rural,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,AC,1200252,Epitaciolândia,Urbana,Municipal,12.5,62.5,25.0,0.0
+2020,Norte,AC,1200252,Epitaciolândia,Rural,Municipal,25.0,25.0,37.5,12.5
+2020,Norte,AC,1200252,Epitaciolândia,Urbana,Pública,18.2,63.6,18.2,0.0
+2020,Norte,AC,1200252,Epitaciolândia,Rural,Pública,33.3,22.2,33.3,11.2
+2020,Norte,AC,1200302,Feijó,Urbana,Estadual,33.3,50.0,16.7,0.0
+2020,Norte,AC,1200302,Feijó,Rural,Estadual,30.0,30.0,27.5,12.5
+2020,Norte,AC,1200302,Feijó,Urbana,Municipal,16.7,66.7,16.6,0.0
+2020,Norte,AC,1200302,Feijó,Rural,Municipal,61.5,28.2,7.7,2.6
+2020,Norte,AC,1200302,Feijó,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,AC,1200302,Feijó,Urbana,Pública,25.0,58.3,16.7,0.0
+2020,Norte,AC,1200302,Feijó,Rural,Pública,50.8,28.8,14.4,6.0
+2020,Norte,AC,1200328,Jordão,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AC,1200328,Jordão,Rural,Estadual,25.0,0.0,50.0,25.0
+2020,Norte,AC,1200328,Jordão,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AC,1200328,Jordão,Rural,Municipal,31.7,15.0,21.7,31.6
+2020,Norte,AC,1200328,Jordão,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,AC,1200328,Jordão,Rural,Pública,31.3,14.1,23.4,31.2
+2020,Norte,AC,1200336,Mâncio Lima,Urbana,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AC,1200336,Mâncio Lima,Rural,Estadual,0.0,37.5,62.5,0.0
+2020,Norte,AC,1200336,Mâncio Lima,Urbana,Municipal,0.0,77.8,22.2,0.0
+2020,Norte,AC,1200336,Mâncio Lima,Rural,Municipal,65.0,25.0,10.0,0.0
+2020,Norte,AC,1200336,Mâncio Lima,Urbana,Pública,15.4,69.2,15.4,0.0
+2020,Norte,AC,1200336,Mâncio Lima,Rural,Pública,46.4,28.6,25.0,0.0
+2020,Norte,AC,1200344,Manoel Urbano,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200344,Manoel Urbano,Rural,Estadual,42.9,42.9,14.2,0.0
+2020,Norte,AC,1200344,Manoel Urbano,Urbana,Municipal,0.0,80.0,20.0,0.0
+2020,Norte,AC,1200344,Manoel Urbano,Rural,Municipal,33.3,33.3,22.2,11.2
+2020,Norte,AC,1200344,Manoel Urbano,Urbana,Pública,0.0,83.3,16.7,0.0
+2020,Norte,AC,1200344,Manoel Urbano,Rural,Pública,36.0,36.0,20.0,8.0
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Rural,Estadual,0.0,20.0,40.0,40.0
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Rural,Municipal,22.7,40.9,27.3,9.1
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Urbana,Pública,0.0,71.4,28.6,0.0
+2020,Norte,AC,1200351,Marechal Thaumaturgo,Rural,Pública,20.4,38.8,28.6,12.2
+2020,Norte,AC,1200385,Plácido de Castro,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Rural,Estadual,28.6,71.4,0.0,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Rural,Municipal,37.5,0.0,62.5,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Urbana,Pública,0.0,87.5,12.5,0.0
+2020,Norte,AC,1200385,Plácido de Castro,Rural,Pública,33.3,33.3,33.4,0.0
+2020,Norte,AC,1200393,Porto Walter,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200393,Porto Walter,Rural,Estadual,25.0,25.0,50.0,0.0
+2020,Norte,AC,1200393,Porto Walter,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200393,Porto Walter,Rural,Municipal,12.1,36.4,45.5,6.0
+2020,Norte,AC,1200393,Porto Walter,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,AC,1200393,Porto Walter,Rural,Pública,14.6,34.1,46.3,5.0
+2020,Norte,AC,1200401,Rio Branco,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200401,Rio Branco,Urbana,Estadual,26.4,62.6,11.0,0.0
+2020,Norte,AC,1200401,Rio Branco,Rural,Estadual,42.6,45.9,9.8,1.7
+2020,Norte,AC,1200401,Rio Branco,Urbana,Municipal,30.3,54.5,15.2,0.0
+2020,Norte,AC,1200401,Rio Branco,Rural,Municipal,63.6,36.4,0.0,0.0
+2020,Norte,AC,1200401,Rio Branco,Urbana,Privada,7.4,25.9,55.6,11.1
+2020,Norte,AC,1200401,Rio Branco,Urbana,Pública,27.5,58.1,14.4,0.0
+2020,Norte,AC,1200401,Rio Branco,Rural,Pública,45.8,44.4,8.3,1.5
+2020,Norte,AC,1200427,Rodrigues Alves,Urbana,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AC,1200427,Rodrigues Alves,Rural,Estadual,18.2,72.7,9.1,0.0
+2020,Norte,AC,1200427,Rodrigues Alves,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,AC,1200427,Rodrigues Alves,Rural,Municipal,40.5,43.2,10.8,5.5
+2020,Norte,AC,1200427,Rodrigues Alves,Urbana,Pública,12.5,50.0,37.5,0.0
+2020,Norte,AC,1200427,Rodrigues Alves,Rural,Pública,35.4,50.0,10.4,4.2
+2020,Norte,AC,1200435,Santa Rosa do Purus,Urbana,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,AC,1200435,Santa Rosa do Purus,Rural,Estadual,0.0,37.5,25.0,37.5
+2020,Norte,AC,1200435,Santa Rosa do Purus,Urbana,Municipal,66.7,33.3,0.0,0.0
+2020,Norte,AC,1200435,Santa Rosa do Purus,Rural,Municipal,47.7,34.1,15.9,2.3
+2020,Norte,AC,1200435,Santa Rosa do Purus,Urbana,Pública,75.0,25.0,0.0,0.0
+2020,Norte,AC,1200435,Santa Rosa do Purus,Rural,Pública,40.4,34.6,17.3,7.7
+2020,Norte,AC,1200450,Senador Guiomard,Urbana,Estadual,25.0,75.0,0.0,0.0
+2020,Norte,AC,1200450,Senador Guiomard,Rural,Estadual,28.6,57.1,14.3,0.0
+2020,Norte,AC,1200450,Senador Guiomard,Urbana,Municipal,0.0,88.9,11.1,0.0
+2020,Norte,AC,1200450,Senador Guiomard,Rural,Municipal,0.0,75.0,25.0,0.0
+2020,Norte,AC,1200450,Senador Guiomard,Urbana,Privada,50.0,0.0,0.0,50.0
+2020,Norte,AC,1200450,Senador Guiomard,Urbana,Pública,7.7,84.6,7.7,0.0
+2020,Norte,AC,1200450,Senador Guiomard,Rural,Pública,22.2,61.1,16.7,0.0
+2020,Norte,AC,1200500,Sena Madureira,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200500,Sena Madureira,Urbana,Estadual,40.0,60.0,0.0,0.0
+2020,Norte,AC,1200500,Sena Madureira,Rural,Estadual,30.4,35.7,26.8,7.1
+2020,Norte,AC,1200500,Sena Madureira,Urbana,Municipal,14.3,50.0,35.7,0.0
+2020,Norte,AC,1200500,Sena Madureira,Rural,Municipal,21.8,29.1,23.6,25.5
+2020,Norte,AC,1200500,Sena Madureira,Urbana,Pública,20.0,50.0,30.0,0.0
+2020,Norte,AC,1200500,Sena Madureira,Rural,Pública,26.1,32.4,25.2,16.3
+2020,Norte,AC,1200609,Tarauacá,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200609,Tarauacá,Urbana,Estadual,37.5,62.5,0.0,0.0
+2020,Norte,AC,1200609,Tarauacá,Rural,Estadual,21.6,13.5,37.8,27.1
+2020,Norte,AC,1200609,Tarauacá,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,AC,1200609,Tarauacá,Rural,Municipal,35.5,51.6,12.9,0.0
+2020,Norte,AC,1200609,Tarauacá,Urbana,Pública,17.6,47.1,35.3,0.0
+2020,Norte,AC,1200609,Tarauacá,Rural,Pública,27.9,30.9,26.5,14.7
+2020,Norte,AC,1200708,Xapuri,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AC,1200708,Xapuri,Urbana,Estadual,25.0,50.0,25.0,0.0
+2020,Norte,AC,1200708,Xapuri,Rural,Estadual,66.7,18.5,7.4,7.4
+2020,Norte,AC,1200708,Xapuri,Urbana,Municipal,0.0,57.1,28.6,14.3
+2020,Norte,AC,1200708,Xapuri,Rural,Municipal,26.7,33.3,33.3,6.7
+2020,Norte,AC,1200708,Xapuri,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200708,Xapuri,Urbana,Pública,8.3,50.0,33.3,8.4
+2020,Norte,AC,1200708,Xapuri,Rural,Pública,52.4,23.8,16.7,7.1
+2020,Norte,AC,1200807,Porto Acre,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AC,1200807,Porto Acre,Rural,Estadual,25.0,62.5,12.5,0.0
+2020,Norte,AC,1200807,Porto Acre,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,AC,1200807,Porto Acre,Rural,Municipal,22.2,50.0,22.2,5.6
+2020,Norte,AC,1200807,Porto Acre,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,AC,1200807,Porto Acre,Rural,Pública,23.1,53.8,19.2,3.9
+2020,Norte,AM,1300029,Alvarães,Urbana,Estadual,25.0,0.0,75.0,0.0
+2020,Norte,AM,1300029,Alvarães,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300029,Alvarães,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,AM,1300029,Alvarães,Rural,Municipal,58.5,26.8,9.8,4.9
+2020,Norte,AM,1300029,Alvarães,Urbana,Pública,14.3,28.6,57.1,0.0
+2020,Norte,AM,1300029,Alvarães,Rural,Pública,55.8,30.2,9.3,4.7
+2020,Norte,AM,1300060,Amaturá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300060,Amaturá,Rural,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1300060,Amaturá,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300060,Amaturá,Rural,Municipal,17.6,52.9,17.6,11.9
+2020,Norte,AM,1300060,Amaturá,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300060,Amaturá,Rural,Pública,20.0,50.0,20.0,10.0
+2020,Norte,AM,1300086,Anamã,Urbana,Estadual,25.0,50.0,25.0,0.0
+2020,Norte,AM,1300086,Anamã,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300086,Anamã,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300086,Anamã,Rural,Municipal,47.1,35.3,17.6,0.0
+2020,Norte,AM,1300086,Anamã,Urbana,Pública,14.3,28.6,57.1,0.0
+2020,Norte,AM,1300086,Anamã,Rural,Pública,38.1,47.6,14.3,0.0
+2020,Norte,AM,1300102,Anori,Urbana,Estadual,25.0,0.0,50.0,25.0
+2020,Norte,AM,1300102,Anori,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300102,Anori,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,AM,1300102,Anori,Rural,Municipal,27.3,36.4,27.3,9.0
+2020,Norte,AM,1300102,Anori,Urbana,Pública,14.3,0.0,57.1,28.6
+2020,Norte,AM,1300102,Anori,Rural,Pública,25.0,41.7,25.0,8.3
+2020,Norte,AM,1300144,Apuí,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1300144,Apuí,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300144,Apuí,Urbana,Municipal,0.0,0.0,33.3,66.7
+2020,Norte,AM,1300144,Apuí,Rural,Municipal,28.6,28.6,28.6,14.2
+2020,Norte,AM,1300144,Apuí,Urbana,Pública,16.7,16.7,33.3,33.3
+2020,Norte,AM,1300144,Apuí,Rural,Pública,25.0,37.5,25.0,12.5
+2020,Norte,AM,1300201,Atalaia do Norte,Urbana,Estadual,25.0,50.0,25.0,0.0
+2020,Norte,AM,1300201,Atalaia do Norte,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AM,1300201,Atalaia do Norte,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AM,1300201,Atalaia do Norte,Rural,Municipal,27.3,29.1,23.6,20.0
+2020,Norte,AM,1300201,Atalaia do Norte,Urbana,Pública,14.3,42.9,42.8,0.0
+2020,Norte,AM,1300201,Atalaia do Norte,Rural,Pública,26.3,29.8,24.6,19.3
+2020,Norte,AM,1300300,Autazes,Urbana,Estadual,16.7,50.0,33.3,0.0
+2020,Norte,AM,1300300,Autazes,Rural,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AM,1300300,Autazes,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AM,1300300,Autazes,Rural,Municipal,0.0,14.3,52.4,33.3
+2020,Norte,AM,1300300,Autazes,Urbana,Pública,11.1,44.4,44.5,0.0
+2020,Norte,AM,1300300,Autazes,Rural,Pública,2.3,15.9,50.0,31.8
+2020,Norte,AM,1300409,Barcelos,Urbana,Estadual,25.0,25.0,50.0,0.0
+2020,Norte,AM,1300409,Barcelos,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300409,Barcelos,Urbana,Municipal,16.7,33.3,50.0,0.0
+2020,Norte,AM,1300409,Barcelos,Rural,Municipal,21.1,36.8,31.6,10.5
+2020,Norte,AM,1300409,Barcelos,Urbana,Pública,20.0,30.0,50.0,0.0
+2020,Norte,AM,1300409,Barcelos,Rural,Pública,20.5,35.9,33.3,10.3
+2020,Norte,AM,1300508,Barreirinha,Urbana,Estadual,25.0,0.0,75.0,0.0
+2020,Norte,AM,1300508,Barreirinha,Rural,Estadual,0.0,85.7,14.3,0.0
+2020,Norte,AM,1300508,Barreirinha,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300508,Barreirinha,Rural,Municipal,21.2,34.1,38.8,5.9
+2020,Norte,AM,1300508,Barreirinha,Urbana,Pública,14.3,42.9,42.8,0.0
+2020,Norte,AM,1300508,Barreirinha,Rural,Pública,19.6,38.0,37.0,5.4
+2020,Norte,AM,1300607,Benjamin Constant,Urbana,Estadual,25.0,25.0,50.0,0.0
+2020,Norte,AM,1300607,Benjamin Constant,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300607,Benjamin Constant,Urbana,Municipal,0.0,42.9,57.1,0.0
+2020,Norte,AM,1300607,Benjamin Constant,Rural,Municipal,23.4,46.8,27.7,2.1
+2020,Norte,AM,1300607,Benjamin Constant,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,AM,1300607,Benjamin Constant,Urbana,Pública,9.1,36.4,54.5,0.0
+2020,Norte,AM,1300607,Benjamin Constant,Rural,Pública,22.4,49.0,26.5,2.1
+2020,Norte,AM,1300631,Beruri,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AM,1300631,Beruri,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300631,Beruri,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1300631,Beruri,Rural,Municipal,50.9,40.0,7.3,1.8
+2020,Norte,AM,1300631,Beruri,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,AM,1300631,Beruri,Rural,Pública,50.0,41.1,7.1,1.8
+2020,Norte,AM,1300680,Boa Vista do Ramos,Urbana,Estadual,20.0,40.0,40.0,0.0
+2020,Norte,AM,1300680,Boa Vista do Ramos,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300680,Boa Vista do Ramos,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300680,Boa Vista do Ramos,Rural,Municipal,10.5,18.4,60.5,10.6
+2020,Norte,AM,1300680,Boa Vista do Ramos,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,AM,1300680,Boa Vista do Ramos,Urbana,Pública,12.5,62.5,25.0,0.0
+2020,Norte,AM,1300680,Boa Vista do Ramos,Rural,Pública,10.3,20.5,59.0,10.2
+2020,Norte,AM,1300706,Boca do Acre,Urbana,Estadual,10.0,30.0,60.0,0.0
+2020,Norte,AM,1300706,Boca do Acre,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300706,Boca do Acre,Urbana,Municipal,0.0,0.0,80.0,20.0
+2020,Norte,AM,1300706,Boca do Acre,Rural,Municipal,24.4,14.1,25.6,35.9
+2020,Norte,AM,1300706,Boca do Acre,Urbana,Pública,5.0,15.0,70.0,10.0
+2020,Norte,AM,1300706,Boca do Acre,Rural,Pública,23.5,17.3,24.7,34.5
+2020,Norte,AM,1300805,Borba,Urbana,Estadual,12.5,37.5,50.0,0.0
+2020,Norte,AM,1300805,Borba,Rural,Estadual,28.6,57.1,0.0,14.3
+2020,Norte,AM,1300805,Borba,Urbana,Municipal,0.0,37.5,62.5,0.0
+2020,Norte,AM,1300805,Borba,Rural,Municipal,19.0,23.0,27.8,30.2
+2020,Norte,AM,1300805,Borba,Urbana,Pública,6.3,37.5,56.2,0.0
+2020,Norte,AM,1300805,Borba,Rural,Pública,19.5,24.8,26.3,29.4
+2020,Norte,AM,1300839,Caapiranga,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1300839,Caapiranga,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300839,Caapiranga,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1300839,Caapiranga,Rural,Municipal,18.9,40.5,27.0,13.6
+2020,Norte,AM,1300839,Caapiranga,Urbana,Pública,20.0,40.0,40.0,0.0
+2020,Norte,AM,1300839,Caapiranga,Rural,Pública,17.9,43.6,25.6,12.9
+2020,Norte,AM,1300904,Canutama,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1300904,Canutama,Rural,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,AM,1300904,Canutama,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,AM,1300904,Canutama,Rural,Municipal,13.8,37.9,17.2,31.1
+2020,Norte,AM,1300904,Canutama,Urbana,Pública,14.3,42.9,42.8,0.0
+2020,Norte,AM,1300904,Canutama,Rural,Pública,16.7,36.7,16.7,29.9
+2020,Norte,AM,1301001,Carauari,Urbana,Estadual,9.1,36.4,54.5,0.0
+2020,Norte,AM,1301001,Carauari,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301001,Carauari,Urbana,Municipal,0.0,91.7,8.3,0.0
+2020,Norte,AM,1301001,Carauari,Rural,Municipal,39.4,42.4,18.2,0.0
+2020,Norte,AM,1301001,Carauari,Urbana,Pública,4.3,65.2,30.5,0.0
+2020,Norte,AM,1301001,Carauari,Rural,Pública,38.2,44.1,17.7,0.0
+2020,Norte,AM,1301100,Careiro,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1301100,Careiro,Rural,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AM,1301100,Careiro,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,AM,1301100,Careiro,Rural,Municipal,5.6,22.2,55.6,16.6
+2020,Norte,AM,1301100,Careiro,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301100,Careiro,Urbana,Pública,14.3,28.6,57.1,0.0
+2020,Norte,AM,1301100,Careiro,Rural,Pública,5.1,25.6,53.8,15.5
+2020,Norte,AM,1301159,Careiro da Várzea,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301159,Careiro da Várzea,Rural,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AM,1301159,Careiro da Várzea,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,AM,1301159,Careiro da Várzea,Rural,Municipal,9.3,25.6,30.2,34.9
+2020,Norte,AM,1301159,Careiro da Várzea,Urbana,Pública,0.0,0.0,25.0,75.0
+2020,Norte,AM,1301159,Careiro da Várzea,Rural,Pública,8.2,30.6,30.6,30.6
+2020,Norte,AM,1301209,Coari,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301209,Coari,Urbana,Estadual,6.7,53.3,40.0,0.0
+2020,Norte,AM,1301209,Coari,Rural,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AM,1301209,Coari,Urbana,Municipal,9.1,54.5,36.4,0.0
+2020,Norte,AM,1301209,Coari,Rural,Municipal,34.4,31.1,25.6,8.9
+2020,Norte,AM,1301209,Coari,Urbana,Privada,33.3,0.0,66.7,0.0
+2020,Norte,AM,1301209,Coari,Urbana,Pública,7.4,51.9,40.7,0.0
+2020,Norte,AM,1301209,Coari,Rural,Pública,34.8,31.5,25.0,8.7
+2020,Norte,AM,1301308,Codajás,Urbana,Estadual,12.5,50.0,37.5,0.0
+2020,Norte,AM,1301308,Codajás,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301308,Codajás,Urbana,Municipal,0.0,42.9,57.1,0.0
+2020,Norte,AM,1301308,Codajás,Rural,Municipal,34.9,37.2,18.6,9.3
+2020,Norte,AM,1301308,Codajás,Urbana,Pública,6.7,46.7,46.6,0.0
+2020,Norte,AM,1301308,Codajás,Rural,Pública,34.1,38.6,18.2,9.1
+2020,Norte,AM,1301407,Eirunepé,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301407,Eirunepé,Urbana,Estadual,11.1,11.1,77.8,0.0
+2020,Norte,AM,1301407,Eirunepé,Urbana,Municipal,0.0,35.7,64.3,0.0
+2020,Norte,AM,1301407,Eirunepé,Rural,Municipal,4.0,24.0,40.0,32.0
+2020,Norte,AM,1301407,Eirunepé,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,AM,1301407,Eirunepé,Urbana,Pública,4.2,25.0,70.8,0.0
+2020,Norte,AM,1301407,Eirunepé,Rural,Pública,4.0,24.0,40.0,32.0
+2020,Norte,AM,1301506,Envira,Urbana,Estadual,20.0,0.0,80.0,0.0
+2020,Norte,AM,1301506,Envira,Urbana,Municipal,0.0,57.1,42.9,0.0
+2020,Norte,AM,1301506,Envira,Rural,Municipal,76.9,19.2,3.9,0.0
+2020,Norte,AM,1301506,Envira,Urbana,Pública,8.3,33.3,58.4,0.0
+2020,Norte,AM,1301506,Envira,Rural,Pública,76.9,19.2,3.9,0.0
+2020,Norte,AM,1301605,Fonte Boa,Urbana,Estadual,16.7,33.3,33.3,16.7
+2020,Norte,AM,1301605,Fonte Boa,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301605,Fonte Boa,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,AM,1301605,Fonte Boa,Rural,Municipal,50.0,39.6,10.4,0.0
+2020,Norte,AM,1301605,Fonte Boa,Urbana,Pública,10.0,40.0,40.0,10.0
+2020,Norte,AM,1301605,Fonte Boa,Rural,Pública,48.0,42.0,10.0,0.0
+2020,Norte,AM,1301654,Guajará,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1301654,Guajará,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301654,Guajará,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,AM,1301654,Guajará,Rural,Municipal,42.3,30.8,19.2,7.7
+2020,Norte,AM,1301654,Guajará,Urbana,Pública,16.7,50.0,33.3,0.0
+2020,Norte,AM,1301654,Guajará,Rural,Pública,40.7,33.3,18.5,7.5
+2020,Norte,AM,1301704,Humaitá,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301704,Humaitá,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1301704,Humaitá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301704,Humaitá,Urbana,Municipal,0.0,30.0,70.0,0.0
+2020,Norte,AM,1301704,Humaitá,Rural,Municipal,33.9,27.4,22.6,16.1
+2020,Norte,AM,1301704,Humaitá,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,AM,1301704,Humaitá,Urbana,Pública,15.8,31.6,52.6,0.0
+2020,Norte,AM,1301704,Humaitá,Rural,Pública,31.3,31.3,22.4,15.0
+2020,Norte,AM,1301803,Ipixuna,Urbana,Estadual,25.0,75.0,0.0,0.0
+2020,Norte,AM,1301803,Ipixuna,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1301803,Ipixuna,Urbana,Municipal,20.0,80.0,0.0,0.0
+2020,Norte,AM,1301803,Ipixuna,Rural,Municipal,6.7,20.0,43.3,30.0
+2020,Norte,AM,1301803,Ipixuna,Urbana,Pública,22.2,77.8,0.0,0.0
+2020,Norte,AM,1301803,Ipixuna,Rural,Pública,6.3,25.0,40.6,28.1
+2020,Norte,AM,1301852,Iranduba,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1301852,Iranduba,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AM,1301852,Iranduba,Urbana,Municipal,11.1,44.4,44.5,0.0
+2020,Norte,AM,1301852,Iranduba,Rural,Municipal,10.4,50.0,35.4,4.2
+2020,Norte,AM,1301852,Iranduba,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,AM,1301852,Iranduba,Urbana,Pública,16.7,33.3,50.0,0.0
+2020,Norte,AM,1301852,Iranduba,Rural,Pública,9.6,50.0,36.5,3.9
+2020,Norte,AM,1301902,Itacoatiara,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1301902,Itacoatiara,Urbana,Estadual,7.7,46.2,46.1,0.0
+2020,Norte,AM,1301902,Itacoatiara,Rural,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,AM,1301902,Itacoatiara,Urbana,Municipal,0.0,37.5,62.5,0.0
+2020,Norte,AM,1301902,Itacoatiara,Rural,Municipal,37.6,34.7,19.8,7.9
+2020,Norte,AM,1301902,Itacoatiara,Urbana,Privada,12.5,37.5,37.5,12.5
+2020,Norte,AM,1301902,Itacoatiara,Urbana,Pública,3.4,41.4,55.2,0.0
+2020,Norte,AM,1301902,Itacoatiara,Rural,Pública,35.8,35.8,20.8,7.6
+2020,Norte,AM,1301951,Itamarati,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1301951,Itamarati,Rural,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,AM,1301951,Itamarati,Urbana,Municipal,0.0,60.0,40.0,0.0
+2020,Norte,AM,1301951,Itamarati,Rural,Municipal,24.1,31.0,31.0,13.9
+2020,Norte,AM,1301951,Itamarati,Urbana,Pública,12.5,50.0,37.5,0.0
+2020,Norte,AM,1301951,Itamarati,Rural,Pública,26.7,30.0,30.0,13.3
+2020,Norte,AM,1302009,Itapiranga,Urbana,Estadual,25.0,25.0,50.0,0.0
+2020,Norte,AM,1302009,Itapiranga,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302009,Itapiranga,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302009,Itapiranga,Rural,Municipal,26.7,20.0,46.7,6.6
+2020,Norte,AM,1302009,Itapiranga,Urbana,Pública,14.3,14.3,71.4,0.0
+2020,Norte,AM,1302009,Itapiranga,Rural,Pública,23.5,29.4,41.2,5.9
+2020,Norte,AM,1302108,Japurá,Urbana,Estadual,33.3,66.7,0.0,0.0
+2020,Norte,AM,1302108,Japurá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302108,Japurá,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,AM,1302108,Japurá,Rural,Municipal,21.9,21.9,37.5,18.7
+2020,Norte,AM,1302108,Japurá,Urbana,Pública,16.7,66.7,16.6,0.0
+2020,Norte,AM,1302108,Japurá,Rural,Pública,19.4,30.6,33.3,16.7
+2020,Norte,AM,1302207,Juruá,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1302207,Juruá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302207,Juruá,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302207,Juruá,Rural,Municipal,28.6,47.6,14.3,9.5
+2020,Norte,AM,1302207,Juruá,Urbana,Pública,16.7,66.7,16.6,0.0
+2020,Norte,AM,1302207,Juruá,Rural,Pública,26.1,52.2,13.0,8.7
+2020,Norte,AM,1302306,Jutaí,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AM,1302306,Jutaí,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302306,Jutaí,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302306,Jutaí,Rural,Municipal,40.5,24.3,27.0,8.2
+2020,Norte,AM,1302306,Jutaí,Urbana,Pública,0.0,88.9,11.1,0.0
+2020,Norte,AM,1302306,Jutaí,Rural,Pública,39.0,27.3,26.0,7.7
+2020,Norte,AM,1302405,Lábrea,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302405,Lábrea,Urbana,Estadual,20.0,40.0,20.0,20.0
+2020,Norte,AM,1302405,Lábrea,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302405,Lábrea,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,AM,1302405,Lábrea,Rural,Municipal,50.5,20.2,15.6,13.7
+2020,Norte,AM,1302405,Lábrea,Urbana,Pública,6.3,37.5,50.0,6.2
+2020,Norte,AM,1302405,Lábrea,Rural,Pública,49.5,21.6,15.3,13.6
+2020,Norte,AM,1302504,Manacapuru,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302504,Manacapuru,Urbana,Estadual,6.3,50.0,43.7,0.0
+2020,Norte,AM,1302504,Manacapuru,Rural,Estadual,16.7,83.3,0.0,0.0
+2020,Norte,AM,1302504,Manacapuru,Urbana,Municipal,0.0,42.9,57.1,0.0
+2020,Norte,AM,1302504,Manacapuru,Rural,Municipal,35.1,22.7,29.9,12.3
+2020,Norte,AM,1302504,Manacapuru,Urbana,Privada,0.0,20.0,40.0,40.0
+2020,Norte,AM,1302504,Manacapuru,Urbana,Pública,3.2,45.2,51.6,0.0
+2020,Norte,AM,1302504,Manacapuru,Rural,Pública,34.0,26.2,28.2,11.6
+2020,Norte,AM,1302553,Manaquiri,Urbana,Estadual,50.0,0.0,50.0,0.0
+2020,Norte,AM,1302553,Manaquiri,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302553,Manaquiri,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,AM,1302553,Manaquiri,Rural,Municipal,8.6,20.0,60.0,11.4
+2020,Norte,AM,1302553,Manaquiri,Urbana,Pública,16.7,16.7,66.6,0.0
+2020,Norte,AM,1302553,Manaquiri,Rural,Pública,8.3,22.2,58.3,11.2
+2020,Norte,AM,1302603,Manaus,Urbana,Federal,0.0,0.0,75.0,25.0
+2020,Norte,AM,1302603,Manaus,Urbana,Estadual,2.2,39.9,53.9,4.0
+2020,Norte,AM,1302603,Manaus,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302603,Manaus,Urbana,Municipal,2.9,44.2,49.1,3.8
+2020,Norte,AM,1302603,Manaus,Rural,Municipal,27.7,42.2,25.3,4.8
+2020,Norte,AM,1302603,Manaus,Urbana,Privada,13.4,32.7,48.0,5.9
+2020,Norte,AM,1302603,Manaus,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302603,Manaus,Urbana,Pública,2.6,42.3,51.1,4.0
+2020,Norte,AM,1302603,Manaus,Rural,Pública,27.1,43.5,24.7,4.7
+2020,Norte,AM,1302702,Manicoré,Urbana,Estadual,12.5,37.5,50.0,0.0
+2020,Norte,AM,1302702,Manicoré,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AM,1302702,Manicoré,Urbana,Municipal,0.0,77.8,11.1,11.1
+2020,Norte,AM,1302702,Manicoré,Rural,Municipal,34.6,28.3,24.4,12.7
+2020,Norte,AM,1302702,Manicoré,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302702,Manicoré,Urbana,Pública,5.9,58.8,29.4,5.9
+2020,Norte,AM,1302702,Manicoré,Rural,Pública,33.6,29.0,25.2,12.2
+2020,Norte,AM,1302801,Maraã,Urbana,Estadual,33.3,66.7,0.0,0.0
+2020,Norte,AM,1302801,Maraã,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302801,Maraã,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1302801,Maraã,Rural,Municipal,52.4,28.6,14.3,4.7
+2020,Norte,AM,1302801,Maraã,Urbana,Pública,14.3,85.7,0.0,0.0
+2020,Norte,AM,1302801,Maraã,Rural,Pública,51.2,30.2,14.0,4.6
+2020,Norte,AM,1302900,Maués,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1302900,Maués,Urbana,Estadual,9.1,36.4,54.5,0.0
+2020,Norte,AM,1302900,Maués,Rural,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AM,1302900,Maués,Urbana,Municipal,16.7,41.7,41.6,0.0
+2020,Norte,AM,1302900,Maués,Rural,Municipal,22.1,32.9,39.6,5.4
+2020,Norte,AM,1302900,Maués,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,AM,1302900,Maués,Urbana,Pública,12.5,37.5,50.0,0.0
+2020,Norte,AM,1302900,Maués,Rural,Pública,22.5,33.1,39.1,5.3
+2020,Norte,AM,1303007,Nhamundá,Urbana,Estadual,25.0,0.0,75.0,0.0
+2020,Norte,AM,1303007,Nhamundá,Rural,Estadual,25.0,75.0,0.0,0.0
+2020,Norte,AM,1303007,Nhamundá,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AM,1303007,Nhamundá,Rural,Municipal,4.1,30.6,38.8,26.5
+2020,Norte,AM,1303007,Nhamundá,Urbana,Pública,14.3,14.3,71.4,0.0
+2020,Norte,AM,1303007,Nhamundá,Rural,Pública,5.7,34.0,35.8,24.5
+2020,Norte,AM,1303106,Nova Olinda do Norte,Urbana,Estadual,16.7,50.0,33.3,0.0
+2020,Norte,AM,1303106,Nova Olinda do Norte,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303106,Nova Olinda do Norte,Urbana,Municipal,28.6,71.4,0.0,0.0
+2020,Norte,AM,1303106,Nova Olinda do Norte,Rural,Municipal,15.4,48.1,25.0,11.5
+2020,Norte,AM,1303106,Nova Olinda do Norte,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303106,Nova Olinda do Norte,Urbana,Pública,23.1,61.5,15.4,0.0
+2020,Norte,AM,1303106,Nova Olinda do Norte,Rural,Pública,15.1,49.1,24.5,11.3
+2020,Norte,AM,1303205,Novo Airão,Urbana,Estadual,25.0,25.0,25.0,25.0
+2020,Norte,AM,1303205,Novo Airão,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303205,Novo Airão,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,AM,1303205,Novo Airão,Rural,Municipal,60.0,40.0,0.0,0.0
+2020,Norte,AM,1303205,Novo Airão,Urbana,Pública,12.5,25.0,50.0,12.5
+2020,Norte,AM,1303205,Novo Airão,Rural,Pública,56.3,43.7,0.0,0.0
+2020,Norte,AM,1303304,Novo Aripuanã,Urbana,Estadual,16.7,33.3,50.0,0.0
+2020,Norte,AM,1303304,Novo Aripuanã,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303304,Novo Aripuanã,Urbana,Municipal,0.0,60.0,40.0,0.0
+2020,Norte,AM,1303304,Novo Aripuanã,Rural,Municipal,31.4,31.4,20.0,17.2
+2020,Norte,AM,1303304,Novo Aripuanã,Urbana,Pública,9.1,45.5,45.4,0.0
+2020,Norte,AM,1303304,Novo Aripuanã,Rural,Pública,29.7,35.1,18.9,16.3
+2020,Norte,AM,1303403,Parintins,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303403,Parintins,Urbana,Estadual,5.3,42.1,47.4,5.2
+2020,Norte,AM,1303403,Parintins,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303403,Parintins,Urbana,Municipal,0.0,25.9,59.3,14.8
+2020,Norte,AM,1303403,Parintins,Rural,Municipal,16.9,30.5,37.3,15.3
+2020,Norte,AM,1303403,Parintins,Urbana,Privada,16.7,33.3,33.3,16.7
+2020,Norte,AM,1303403,Parintins,Urbana,Pública,2.1,31.9,55.3,10.7
+2020,Norte,AM,1303403,Parintins,Rural,Pública,16.4,32.8,36.1,14.7
+2020,Norte,AM,1303502,Pauini,Urbana,Estadual,33.3,0.0,33.3,33.4
+2020,Norte,AM,1303502,Pauini,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303502,Pauini,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,AM,1303502,Pauini,Rural,Municipal,29.1,27.3,23.6,20.0
+2020,Norte,AM,1303502,Pauini,Urbana,Pública,14.3,0.0,42.9,42.8
+2020,Norte,AM,1303502,Pauini,Rural,Pública,28.6,26.8,25.0,19.6
+2020,Norte,AM,1303536,Presidente Figueiredo,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Urbana,Estadual,33.3,66.7,0.0,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Urbana,Municipal,0.0,85.7,14.3,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Rural,Municipal,11.8,52.9,35.3,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Urbana,Privada,0.0,50.0,0.0,50.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Urbana,Pública,9.1,72.7,18.2,0.0
+2020,Norte,AM,1303536,Presidente Figueiredo,Rural,Pública,10.5,57.9,31.6,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Urbana,Municipal,14.3,42.9,42.8,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Rural,Municipal,40.0,60.0,0.0,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Urbana,Pública,20.0,30.0,50.0,0.0
+2020,Norte,AM,1303569,Rio Preto da Eva,Rural,Pública,36.4,63.6,0.0,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Urbana,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Urbana,Municipal,50.0,25.0,25.0,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Rural,Municipal,57.1,28.6,14.3,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Urbana,Pública,42.9,28.6,28.5,0.0
+2020,Norte,AM,1303601,Santa Isabel do Rio Negro,Rural,Pública,51.6,35.5,12.9,0.0
+2020,Norte,AM,1303700,Santo Antônio do Içá,Urbana,Estadual,20.0,60.0,20.0,0.0
+2020,Norte,AM,1303700,Santo Antônio do Içá,Rural,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,AM,1303700,Santo Antônio do Içá,Urbana,Municipal,0.0,71.4,28.6,0.0
+2020,Norte,AM,1303700,Santo Antônio do Içá,Rural,Municipal,10.7,28.6,32.1,28.6
+2020,Norte,AM,1303700,Santo Antônio do Içá,Urbana,Pública,8.3,66.7,25.0,0.0
+2020,Norte,AM,1303700,Santo Antônio do Içá,Rural,Pública,9.4,34.4,31.3,24.9
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Urbana,Estadual,14.3,28.6,57.1,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Rural,Estadual,0.0,80.0,20.0,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Rural,Municipal,30.3,34.1,28.8,6.8
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Urbana,Privada,50.0,0.0,50.0,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Urbana,Pública,9.1,36.4,54.5,0.0
+2020,Norte,AM,1303809,São Gabriel da Cachoeira,Rural,Pública,28.9,36.2,28.4,6.5
+2020,Norte,AM,1303908,São Paulo de Olivença,Urbana,Estadual,16.7,0.0,83.3,0.0
+2020,Norte,AM,1303908,São Paulo de Olivença,Rural,Estadual,0.0,80.0,20.0,0.0
+2020,Norte,AM,1303908,São Paulo de Olivença,Urbana,Municipal,25.0,75.0,0.0,0.0
+2020,Norte,AM,1303908,São Paulo de Olivença,Rural,Municipal,28.3,46.7,16.7,8.3
+2020,Norte,AM,1303908,São Paulo de Olivença,Urbana,Pública,20.0,30.0,50.0,0.0
+2020,Norte,AM,1303908,São Paulo de Olivença,Rural,Pública,26.2,49.2,16.9,7.7
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Urbana,Estadual,25.0,0.0,75.0,0.0
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Rural,Municipal,50.0,25.0,25.0,0.0
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Urbana,Pública,16.7,0.0,83.3,0.0
+2020,Norte,AM,1303957,São Sebastião do Uatumã,Rural,Pública,47.1,29.4,23.5,0.0
+2020,Norte,AM,1304005,Silves,Urbana,Estadual,50.0,0.0,50.0,0.0
+2020,Norte,AM,1304005,Silves,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AM,1304005,Silves,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1304005,Silves,Rural,Municipal,0.0,37.5,50.0,12.5
+2020,Norte,AM,1304005,Silves,Urbana,Pública,33.3,0.0,66.7,0.0
+2020,Norte,AM,1304005,Silves,Rural,Pública,0.0,40.0,50.0,10.0
+2020,Norte,AM,1304062,Tabatinga,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1304062,Tabatinga,Urbana,Estadual,16.7,16.7,50.0,16.6
+2020,Norte,AM,1304062,Tabatinga,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304062,Tabatinga,Urbana,Municipal,20.0,70.0,10.0,0.0
+2020,Norte,AM,1304062,Tabatinga,Rural,Municipal,15.6,40.6,43.8,0.0
+2020,Norte,AM,1304062,Tabatinga,Urbana,Privada,50.0,0.0,50.0,0.0
+2020,Norte,AM,1304062,Tabatinga,Urbana,Pública,17.6,47.1,29.4,5.9
+2020,Norte,AM,1304062,Tabatinga,Rural,Pública,13.9,47.2,38.9,0.0
+2020,Norte,AM,1304104,Tapauá,Urbana,Estadual,25.0,50.0,25.0,0.0
+2020,Norte,AM,1304104,Tapauá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304104,Tapauá,Urbana,Municipal,0.0,0.0,80.0,20.0
+2020,Norte,AM,1304104,Tapauá,Rural,Municipal,19.0,48.3,24.1,8.6
+2020,Norte,AM,1304104,Tapauá,Urbana,Pública,11.1,22.2,55.6,11.1
+2020,Norte,AM,1304104,Tapauá,Rural,Pública,18.6,49.2,23.7,8.5
+2020,Norte,AM,1304203,Tefé,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AM,1304203,Tefé,Urbana,Estadual,6.7,26.7,66.6,0.0
+2020,Norte,AM,1304203,Tefé,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304203,Tefé,Urbana,Municipal,18.8,75.0,6.2,0.0
+2020,Norte,AM,1304203,Tefé,Rural,Municipal,36.4,50.0,9.1,4.5
+2020,Norte,AM,1304203,Tefé,Urbana,Privada,0.0,80.0,0.0,20.0
+2020,Norte,AM,1304203,Tefé,Urbana,Pública,12.5,50.0,37.5,0.0
+2020,Norte,AM,1304203,Tefé,Rural,Pública,34.3,52.9,8.6,4.2
+2020,Norte,AM,1304237,Tonantins,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AM,1304237,Tonantins,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304237,Tonantins,Urbana,Municipal,12.5,87.5,0.0,0.0
+2020,Norte,AM,1304237,Tonantins,Rural,Municipal,26.8,36.6,26.8,9.8
+2020,Norte,AM,1304237,Tonantins,Urbana,Pública,10.0,80.0,10.0,0.0
+2020,Norte,AM,1304237,Tonantins,Rural,Pública,25.6,39.5,25.6,9.3
+2020,Norte,AM,1304260,Uarini,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1304260,Uarini,Rural,Estadual,33.3,66.7,0.0,0.0
+2020,Norte,AM,1304260,Uarini,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304260,Uarini,Rural,Municipal,40.0,30.0,26.7,3.3
+2020,Norte,AM,1304260,Uarini,Urbana,Pública,12.5,62.5,25.0,0.0
+2020,Norte,AM,1304260,Uarini,Rural,Pública,39.4,33.3,24.2,3.1
+2020,Norte,AM,1304302,Urucará,Urbana,Estadual,33.3,33.3,0.0,33.4
+2020,Norte,AM,1304302,Urucará,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AM,1304302,Urucará,Urbana,Municipal,20.0,80.0,0.0,0.0
+2020,Norte,AM,1304302,Urucará,Rural,Municipal,45.8,41.7,8.3,4.2
+2020,Norte,AM,1304302,Urucará,Urbana,Pública,25.0,62.5,0.0,12.5
+2020,Norte,AM,1304302,Urucará,Rural,Pública,44.0,44.0,8.0,4.0
+2020,Norte,AM,1304401,Urucurituba,Urbana,Estadual,33.3,0.0,66.7,0.0
+2020,Norte,AM,1304401,Urucurituba,Rural,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,AM,1304401,Urucurituba,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,AM,1304401,Urucurituba,Rural,Municipal,31.6,21.1,42.1,5.2
+2020,Norte,AM,1304401,Urucurituba,Urbana,Privada,50.0,50.0,0.0,0.0
+2020,Norte,AM,1304401,Urucurituba,Urbana,Pública,14.3,14.3,71.4,0.0
+2020,Norte,AM,1304401,Urucurituba,Rural,Pública,27.3,27.3,40.9,4.5
+2020,Norte,RR,1400027,Amajari,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400027,Amajari,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400027,Amajari,Rural,Estadual,20.8,16.7,50.0,12.5
+2020,Norte,RR,1400027,Amajari,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400027,Amajari,Rural,Municipal,27.3,31.8,27.3,13.6
+2020,Norte,RR,1400027,Amajari,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,RR,1400027,Amajari,Rural,Pública,23.9,23.9,39.1,13.1
+2020,Norte,RR,1400050,Alto Alegre,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400050,Alto Alegre,Rural,Estadual,16.0,16.0,60.0,8.0
+2020,Norte,RR,1400050,Alto Alegre,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400050,Alto Alegre,Rural,Municipal,35.7,21.4,28.6,14.3
+2020,Norte,RR,1400050,Alto Alegre,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,RR,1400050,Alto Alegre,Rural,Pública,23.1,17.9,48.7,10.3
+2020,Norte,RR,1400100,Boa Vista,Urbana,Federal,0.0,33.3,66.7,0.0
+2020,Norte,RR,1400100,Boa Vista,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400100,Boa Vista,Urbana,Estadual,0.0,62.1,37.9,0.0
+2020,Norte,RR,1400100,Boa Vista,Rural,Estadual,0.0,42.9,50.0,7.1
+2020,Norte,RR,1400100,Boa Vista,Urbana,Municipal,34.8,18.0,46.1,1.1
+2020,Norte,RR,1400100,Boa Vista,Rural,Municipal,11.8,35.3,47.1,5.8
+2020,Norte,RR,1400100,Boa Vista,Urbana,Privada,13.9,50.0,33.3,2.8
+2020,Norte,RR,1400100,Boa Vista,Urbana,Pública,20.7,35.3,43.3,0.7
+2020,Norte,RR,1400100,Boa Vista,Rural,Pública,6.3,37.5,50.0,6.2
+2020,Norte,RR,1400159,Bonfim,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400159,Bonfim,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400159,Bonfim,Rural,Estadual,13.3,40.0,46.7,0.0
+2020,Norte,RR,1400159,Bonfim,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400159,Bonfim,Rural,Municipal,7.1,21.4,28.6,42.9
+2020,Norte,RR,1400159,Bonfim,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400159,Bonfim,Rural,Pública,10.3,31.0,37.9,20.8
+2020,Norte,RR,1400175,Cantá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400175,Cantá,Rural,Estadual,6.3,50.0,37.5,6.2
+2020,Norte,RR,1400175,Cantá,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400175,Cantá,Rural,Municipal,39.4,30.3,24.2,6.1
+2020,Norte,RR,1400175,Cantá,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400175,Cantá,Rural,Pública,28.6,36.7,28.6,6.1
+2020,Norte,RR,1400209,Caracaraí,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400209,Caracaraí,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400209,Caracaraí,Rural,Estadual,0.0,42.9,57.1,0.0
+2020,Norte,RR,1400209,Caracaraí,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400209,Caracaraí,Rural,Municipal,0.0,33.3,50.0,16.7
+2020,Norte,RR,1400209,Caracaraí,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,RR,1400209,Caracaraí,Rural,Pública,0.0,35.0,55.0,10.0
+2020,Norte,RR,1400233,Caroebe,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400233,Caroebe,Rural,Estadual,0.0,37.5,50.0,12.5
+2020,Norte,RR,1400233,Caroebe,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400233,Caroebe,Rural,Municipal,37.5,12.5,25.0,25.0
+2020,Norte,RR,1400233,Caroebe,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,RR,1400233,Caroebe,Rural,Pública,18.8,25.0,37.5,18.7
+2020,Norte,RR,1400282,Iracema,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,RR,1400282,Iracema,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400282,Iracema,Urbana,Municipal,0.0,50.0,25.0,25.0
+2020,Norte,RR,1400282,Iracema,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400282,Iracema,Urbana,Pública,0.0,40.0,20.0,40.0
+2020,Norte,RR,1400282,Iracema,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400308,Mucajaí,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,RR,1400308,Mucajaí,Rural,Estadual,0.0,60.0,20.0,20.0
+2020,Norte,RR,1400308,Mucajaí,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,RR,1400308,Mucajaí,Rural,Municipal,14.3,57.1,28.6,0.0
+2020,Norte,RR,1400308,Mucajaí,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,RR,1400308,Mucajaí,Urbana,Pública,0.0,37.5,62.5,0.0
+2020,Norte,RR,1400308,Mucajaí,Rural,Pública,8.3,58.3,25.0,8.4
+2020,Norte,RR,1400407,Normandia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400407,Normandia,Rural,Estadual,24.0,30.0,34.0,12.0
+2020,Norte,RR,1400407,Normandia,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,RR,1400407,Normandia,Rural,Municipal,72.4,13.8,6.9,6.9
+2020,Norte,RR,1400407,Normandia,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400407,Normandia,Rural,Pública,41.8,24.1,24.1,10.0
+2020,Norte,RR,1400456,Pacaraima,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400456,Pacaraima,Rural,Estadual,17.1,43.9,34.1,4.9
+2020,Norte,RR,1400456,Pacaraima,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400456,Pacaraima,Rural,Municipal,20.0,60.0,20.0,0.0
+2020,Norte,RR,1400456,Pacaraima,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400456,Pacaraima,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,RR,1400456,Pacaraima,Rural,Pública,17.4,45.7,32.6,4.3
+2020,Norte,RR,1400472,Rorainópolis,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,RR,1400472,Rorainópolis,Rural,Estadual,0.0,83.3,16.7,0.0
+2020,Norte,RR,1400472,Rorainópolis,Urbana,Municipal,14.3,42.9,42.8,0.0
+2020,Norte,RR,1400472,Rorainópolis,Rural,Municipal,17.4,52.2,13.0,17.4
+2020,Norte,RR,1400472,Rorainópolis,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400472,Rorainópolis,Urbana,Pública,10.0,50.0,40.0,0.0
+2020,Norte,RR,1400472,Rorainópolis,Rural,Pública,13.8,58.6,13.8,13.8
+2020,Norte,RR,1400506,São João da Baliza,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400506,São João da Baliza,Rural,Estadual,50.0,0.0,50.0,0.0
+2020,Norte,RR,1400506,São João da Baliza,Urbana,Municipal,20.0,40.0,40.0,0.0
+2020,Norte,RR,1400506,São João da Baliza,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,RR,1400506,São João da Baliza,Urbana,Pública,14.3,28.6,57.1,0.0
+2020,Norte,RR,1400506,São João da Baliza,Rural,Pública,20.0,20.0,60.0,0.0
+2020,Norte,RR,1400605,São Luiz,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,RR,1400605,São Luiz,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400605,São Luiz,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,RR,1400605,São Luiz,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400605,São Luiz,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,RR,1400605,São Luiz,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400704,Uiramutã,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,RR,1400704,Uiramutã,Rural,Estadual,13.8,24.6,40.0,21.6
+2020,Norte,RR,1400704,Uiramutã,Urbana,Municipal,100.0,0.0,0.0,0.0
+2020,Norte,RR,1400704,Uiramutã,Rural,Municipal,63.9,25.0,5.6,5.5
+2020,Norte,RR,1400704,Uiramutã,Urbana,Pública,50.0,0.0,50.0,0.0
+2020,Norte,RR,1400704,Uiramutã,Rural,Pública,31.7,24.8,27.7,15.8
+2020,Norte,PA,1500107,Abaetetuba,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500107,Abaetetuba,Urbana,Estadual,0.0,6.7,73.3,20.0
+2020,Norte,PA,1500107,Abaetetuba,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500107,Abaetetuba,Urbana,Municipal,0.0,7.5,72.5,20.0
+2020,Norte,PA,1500107,Abaetetuba,Rural,Municipal,1.6,14.7,45.0,38.7
+2020,Norte,PA,1500107,Abaetetuba,Urbana,Privada,0.0,37.5,25.0,37.5
+2020,Norte,PA,1500107,Abaetetuba,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500107,Abaetetuba,Urbana,Pública,0.0,7.1,73.2,19.7
+2020,Norte,PA,1500107,Abaetetuba,Rural,Pública,1.5,14.5,45.8,38.2
+2020,Norte,PA,1500131,Abel Figueiredo,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500131,Abel Figueiredo,Urbana,Municipal,0.0,16.7,83.3,0.0
+2020,Norte,PA,1500131,Abel Figueiredo,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500131,Abel Figueiredo,Urbana,Pública,0.0,14.3,85.7,0.0
+2020,Norte,PA,1500131,Abel Figueiredo,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500206,Acará,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1500206,Acará,Urbana,Municipal,0.0,0.0,75.0,25.0
+2020,Norte,PA,1500206,Acará,Rural,Municipal,11.0,16.6,47.6,24.8
+2020,Norte,PA,1500206,Acará,Urbana,Pública,0.0,0.0,70.0,30.0
+2020,Norte,PA,1500206,Acará,Rural,Pública,11.0,16.6,47.6,24.8
+2020,Norte,PA,1500305,Afuá,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500305,Afuá,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,PA,1500305,Afuá,Rural,Municipal,3.6,20.2,52.4,23.8
+2020,Norte,PA,1500305,Afuá,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1500305,Afuá,Rural,Pública,3.6,20.2,52.4,23.8
+2020,Norte,PA,1500347,Água Azul do Norte,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500347,Água Azul do Norte,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1500347,Água Azul do Norte,Rural,Municipal,0.0,28.6,57.1,14.3
+2020,Norte,PA,1500347,Água Azul do Norte,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500347,Água Azul do Norte,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,PA,1500347,Água Azul do Norte,Rural,Pública,0.0,28.6,57.1,14.3
+2020,Norte,PA,1500404,Alenquer,Urbana,Estadual,14.3,42.9,42.8,0.0
+2020,Norte,PA,1500404,Alenquer,Urbana,Municipal,0.0,44.4,55.6,0.0
+2020,Norte,PA,1500404,Alenquer,Rural,Municipal,22.2,34.4,27.8,15.6
+2020,Norte,PA,1500404,Alenquer,Urbana,Privada,0.0,0.0,66.7,33.3
+2020,Norte,PA,1500404,Alenquer,Urbana,Pública,4.0,44.0,52.0,0.0
+2020,Norte,PA,1500404,Alenquer,Rural,Pública,22.2,34.4,27.8,15.6
+2020,Norte,PA,1500503,Almeirim,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1500503,Almeirim,Urbana,Municipal,0.0,13.3,46.7,40.0
+2020,Norte,PA,1500503,Almeirim,Rural,Municipal,21.8,29.1,21.8,27.3
+2020,Norte,PA,1500503,Almeirim,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500503,Almeirim,Urbana,Pública,0.0,11.8,41.2,47.0
+2020,Norte,PA,1500503,Almeirim,Rural,Pública,21.8,29.1,21.8,27.3
+2020,Norte,PA,1500602,Altamira,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500602,Altamira,Urbana,Estadual,0.0,20.0,80.0,0.0
+2020,Norte,PA,1500602,Altamira,Urbana,Municipal,2.6,17.9,79.5,0.0
+2020,Norte,PA,1500602,Altamira,Rural,Municipal,34.3,41.8,20.9,3.0
+2020,Norte,PA,1500602,Altamira,Urbana,Privada,0.0,22.2,55.6,22.2
+2020,Norte,PA,1500602,Altamira,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500602,Altamira,Urbana,Pública,2.2,20.0,77.8,0.0
+2020,Norte,PA,1500602,Altamira,Rural,Pública,34.3,41.8,20.9,3.0
+2020,Norte,PA,1500701,Anajás,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500701,Anajás,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1500701,Anajás,Rural,Municipal,36.2,40.4,13.8,9.6
+2020,Norte,PA,1500701,Anajás,Urbana,Pública,0.0,42.9,57.1,0.0
+2020,Norte,PA,1500701,Anajás,Rural,Pública,36.2,40.4,13.8,9.6
+2020,Norte,PA,1500800,Ananindeua,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500800,Ananindeua,Urbana,Estadual,2.4,25.0,57.1,15.5
+2020,Norte,PA,1500800,Ananindeua,Urbana,Municipal,13.2,47.4,31.6,7.8
+2020,Norte,PA,1500800,Ananindeua,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500800,Ananindeua,Urbana,Privada,1.2,13.6,61.7,23.5
+2020,Norte,PA,1500800,Ananindeua,Urbana,Pública,7.5,35.4,45.3,11.8
+2020,Norte,PA,1500800,Ananindeua,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500859,Anapu,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500859,Anapu,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1500859,Anapu,Rural,Municipal,35.3,41.2,23.5,0.0
+2020,Norte,PA,1500859,Anapu,Rural,Privada,0.0,0.0,0.0,100.0
+2020,Norte,PA,1500859,Anapu,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1500859,Anapu,Rural,Pública,35.3,41.2,23.5,0.0
+2020,Norte,PA,1500909,Augusto Corrêa,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500909,Augusto Corrêa,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1500909,Augusto Corrêa,Urbana,Municipal,0.0,11.1,33.3,55.6
+2020,Norte,PA,1500909,Augusto Corrêa,Rural,Municipal,7.6,18.2,40.9,33.3
+2020,Norte,PA,1500909,Augusto Corrêa,Urbana,Privada,50.0,50.0,0.0,0.0
+2020,Norte,PA,1500909,Augusto Corrêa,Urbana,Pública,0.0,10.0,40.0,50.0
+2020,Norte,PA,1500909,Augusto Corrêa,Rural,Pública,7.2,21.7,39.1,32.0
+2020,Norte,PA,1500958,Aurora do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1500958,Aurora do Pará,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1500958,Aurora do Pará,Urbana,Municipal,0.0,75.0,25.0,0.0
+2020,Norte,PA,1500958,Aurora do Pará,Rural,Municipal,34.4,25.0,25.0,15.6
+2020,Norte,PA,1500958,Aurora do Pará,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,PA,1500958,Aurora do Pará,Rural,Pública,33.3,25.8,25.8,15.1
+2020,Norte,PA,1501006,Aveiro,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501006,Aveiro,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501006,Aveiro,Rural,Municipal,19.6,26.1,43.5,10.8
+2020,Norte,PA,1501006,Aveiro,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501006,Aveiro,Rural,Pública,19.6,26.1,43.5,10.8
+2020,Norte,PA,1501105,Bagre,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501105,Bagre,Urbana,Municipal,0.0,83.3,16.7,0.0
+2020,Norte,PA,1501105,Bagre,Rural,Municipal,8.3,20.8,54.2,16.7
+2020,Norte,PA,1501105,Bagre,Urbana,Pública,0.0,71.4,28.6,0.0
+2020,Norte,PA,1501105,Bagre,Rural,Pública,8.3,20.8,54.2,16.7
+2020,Norte,PA,1501204,Baião,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501204,Baião,Urbana,Municipal,0.0,0.0,55.6,44.4
+2020,Norte,PA,1501204,Baião,Rural,Municipal,15.8,19.3,45.6,19.3
+2020,Norte,PA,1501204,Baião,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501204,Baião,Urbana,Pública,0.0,0.0,60.0,40.0
+2020,Norte,PA,1501204,Baião,Rural,Pública,15.8,19.3,45.6,19.3
+2020,Norte,PA,1501253,Bannach,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501253,Bannach,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501253,Bannach,Rural,Municipal,40.0,20.0,20.0,20.0
+2020,Norte,PA,1501253,Bannach,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1501253,Bannach,Rural,Pública,40.0,20.0,20.0,20.0
+2020,Norte,PA,1501303,Barcarena,Urbana,Estadual,0.0,37.5,50.0,12.5
+2020,Norte,PA,1501303,Barcarena,Rural,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,PA,1501303,Barcarena,Urbana,Municipal,0.0,11.5,80.8,7.7
+2020,Norte,PA,1501303,Barcarena,Rural,Municipal,13.4,25.4,31.3,29.9
+2020,Norte,PA,1501303,Barcarena,Urbana,Privada,14.3,35.7,42.9,7.1
+2020,Norte,PA,1501303,Barcarena,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501303,Barcarena,Urbana,Pública,0.0,17.6,73.5,8.9
+2020,Norte,PA,1501303,Barcarena,Rural,Pública,12.7,25.4,33.8,28.1
+2020,Norte,PA,1501402,Belém,Urbana,Federal,0.0,0.0,83.3,16.7
+2020,Norte,PA,1501402,Belém,Urbana,Estadual,0.9,20.8,66.1,12.2
+2020,Norte,PA,1501402,Belém,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501402,Belém,Urbana,Municipal,1.8,10.6,59.3,28.3
+2020,Norte,PA,1501402,Belém,Rural,Municipal,0.0,83.3,16.7,0.0
+2020,Norte,PA,1501402,Belém,Urbana,Privada,4.7,17.8,46.1,31.4
+2020,Norte,PA,1501402,Belém,Urbana,Pública,1.2,17.1,64.1,17.6
+2020,Norte,PA,1501402,Belém,Rural,Pública,0.0,87.5,12.5,0.0
+2020,Norte,PA,1501451,Belterra,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501451,Belterra,Urbana,Municipal,20.0,50.0,30.0,0.0
+2020,Norte,PA,1501451,Belterra,Rural,Municipal,37.8,40.5,21.7,0.0
+2020,Norte,PA,1501451,Belterra,Urbana,Pública,18.2,45.5,36.3,0.0
+2020,Norte,PA,1501451,Belterra,Rural,Pública,37.8,40.5,21.7,0.0
+2020,Norte,PA,1501501,Benevides,Urbana,Estadual,0.0,27.3,72.7,0.0
+2020,Norte,PA,1501501,Benevides,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501501,Benevides,Urbana,Municipal,0.0,13.3,66.7,20.0
+2020,Norte,PA,1501501,Benevides,Rural,Municipal,0.0,12.5,56.3,31.2
+2020,Norte,PA,1501501,Benevides,Urbana,Privada,16.7,33.3,16.7,33.3
+2020,Norte,PA,1501501,Benevides,Urbana,Pública,0.0,19.2,69.2,11.6
+2020,Norte,PA,1501501,Benevides,Rural,Pública,0.0,22.2,50.0,27.8
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Rural,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Rural,Municipal,14.3,0.0,85.7,0.0
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Urbana,Pública,0.0,16.7,66.7,16.6
+2020,Norte,PA,1501576,Bom Jesus do Tocantins,Rural,Pública,10.0,10.0,80.0,0.0
+2020,Norte,PA,1501600,Bonito,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501600,Bonito,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501600,Bonito,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501600,Bonito,Rural,Municipal,11.1,11.1,44.4,33.4
+2020,Norte,PA,1501600,Bonito,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,PA,1501600,Bonito,Rural,Pública,10.7,14.3,42.9,32.1
+2020,Norte,PA,1501709,Bragança,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501709,Bragança,Urbana,Estadual,0.0,20.0,75.0,5.0
+2020,Norte,PA,1501709,Bragança,Rural,Estadual,0.0,20.0,80.0,0.0
+2020,Norte,PA,1501709,Bragança,Urbana,Municipal,0.0,9.1,77.3,13.6
+2020,Norte,PA,1501709,Bragança,Rural,Municipal,38.5,25.0,19.2,17.3
+2020,Norte,PA,1501709,Bragança,Urbana,Privada,0.0,14.3,57.1,28.6
+2020,Norte,PA,1501709,Bragança,Urbana,Pública,0.0,14.0,76.7,9.3
+2020,Norte,PA,1501709,Bragança,Rural,Pública,36.7,24.8,22.0,16.5
+2020,Norte,PA,1501725,Brasil Novo,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501725,Brasil Novo,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501725,Brasil Novo,Rural,Municipal,8.0,36.0,40.0,16.0
+2020,Norte,PA,1501725,Brasil Novo,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501725,Brasil Novo,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501725,Brasil Novo,Rural,Pública,8.0,36.0,40.0,16.0
+2020,Norte,PA,1501758,Brejo Grande do Araguaia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501758,Brejo Grande do Araguaia,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,PA,1501758,Brejo Grande do Araguaia,Rural,Municipal,36.4,27.3,27.3,9.0
+2020,Norte,PA,1501758,Brejo Grande do Araguaia,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,PA,1501758,Brejo Grande do Araguaia,Rural,Pública,36.4,27.3,27.3,9.0
+2020,Norte,PA,1501782,Breu Branco,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1501782,Breu Branco,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501782,Breu Branco,Urbana,Municipal,0.0,20.0,60.0,20.0
+2020,Norte,PA,1501782,Breu Branco,Rural,Municipal,0.0,31.3,37.5,31.2
+2020,Norte,PA,1501782,Breu Branco,Urbana,Pública,0.0,23.5,58.8,17.7
+2020,Norte,PA,1501782,Breu Branco,Rural,Pública,0.0,29.4,41.2,29.4
+2020,Norte,PA,1501808,Breves,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501808,Breves,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501808,Breves,Urbana,Municipal,0.0,17.2,69.0,13.8
+2020,Norte,PA,1501808,Breves,Rural,Municipal,46.6,21.5,11.2,20.7
+2020,Norte,PA,1501808,Breves,Urbana,Privada,66.7,33.3,0.0,0.0
+2020,Norte,PA,1501808,Breves,Urbana,Pública,0.0,14.7,73.5,11.8
+2020,Norte,PA,1501808,Breves,Rural,Pública,46.6,21.5,11.2,20.7
+2020,Norte,PA,1501907,Bujaru,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501907,Bujaru,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501907,Bujaru,Urbana,Municipal,0.0,25.0,62.5,12.5
+2020,Norte,PA,1501907,Bujaru,Rural,Municipal,15.8,22.8,38.6,22.8
+2020,Norte,PA,1501907,Bujaru,Urbana,Pública,0.0,33.3,55.6,11.1
+2020,Norte,PA,1501907,Bujaru,Rural,Pública,15.5,24.1,37.9,22.5
+2020,Norte,PA,1501956,Cachoeira do Piriá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1501956,Cachoeira do Piriá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1501956,Cachoeira do Piriá,Urbana,Municipal,0.0,80.0,20.0,0.0
+2020,Norte,PA,1501956,Cachoeira do Piriá,Rural,Municipal,12.2,14.6,53.7,19.5
+2020,Norte,PA,1501956,Cachoeira do Piriá,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,PA,1501956,Cachoeira do Piriá,Rural,Pública,11.9,16.7,52.4,19.0
+2020,Norte,PA,1502004,Cachoeira do Arari,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1502004,Cachoeira do Arari,Rural,Estadual,0.0,75.0,0.0,25.0
+2020,Norte,PA,1502004,Cachoeira do Arari,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1502004,Cachoeira do Arari,Rural,Municipal,6.1,48.5,30.3,15.1
+2020,Norte,PA,1502004,Cachoeira do Arari,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,PA,1502004,Cachoeira do Arari,Rural,Pública,5.4,51.4,27.0,16.2
+2020,Norte,PA,1502103,Cametá,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502103,Cametá,Urbana,Estadual,0.0,40.0,40.0,20.0
+2020,Norte,PA,1502103,Cametá,Rural,Estadual,0.0,50.0,0.0,50.0
+2020,Norte,PA,1502103,Cametá,Urbana,Municipal,0.0,10.5,73.7,15.8
+2020,Norte,PA,1502103,Cametá,Rural,Municipal,6.0,15.3,43.2,35.5
+2020,Norte,PA,1502103,Cametá,Urbana,Privada,0.0,37.5,37.5,25.0
+2020,Norte,PA,1502103,Cametá,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502103,Cametá,Urbana,Pública,0.0,16.0,68.0,16.0
+2020,Norte,PA,1502103,Cametá,Rural,Pública,5.9,15.7,42.7,35.7
+2020,Norte,PA,1502152,Canaã dos Carajás,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502152,Canaã dos Carajás,Urbana,Municipal,0.0,72.7,18.2,9.1
+2020,Norte,PA,1502152,Canaã dos Carajás,Rural,Municipal,0.0,0.0,85.7,14.3
+2020,Norte,PA,1502152,Canaã dos Carajás,Urbana,Privada,0.0,57.1,42.9,0.0
+2020,Norte,PA,1502152,Canaã dos Carajás,Urbana,Pública,0.0,61.5,30.8,7.7
+2020,Norte,PA,1502152,Canaã dos Carajás,Rural,Pública,0.0,0.0,85.7,14.3
+2020,Norte,PA,1502202,Capanema,Urbana,Estadual,0.0,38.5,61.5,0.0
+2020,Norte,PA,1502202,Capanema,Rural,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1502202,Capanema,Urbana,Municipal,66.7,25.0,8.3,0.0
+2020,Norte,PA,1502202,Capanema,Rural,Municipal,41.7,33.3,25.0,0.0
+2020,Norte,PA,1502202,Capanema,Urbana,Privada,7.7,15.4,61.5,15.4
+2020,Norte,PA,1502202,Capanema,Urbana,Pública,43.2,29.7,27.1,0.0
+2020,Norte,PA,1502202,Capanema,Rural,Pública,35.7,28.6,28.6,7.1
+2020,Norte,PA,1502301,Capitão Poço,Urbana,Estadual,0.0,40.0,60.0,0.0
+2020,Norte,PA,1502301,Capitão Poço,Rural,Estadual,0.0,37.5,37.5,25.0
+2020,Norte,PA,1502301,Capitão Poço,Urbana,Municipal,15.4,84.6,0.0,0.0
+2020,Norte,PA,1502301,Capitão Poço,Rural,Municipal,17.6,38.8,40.0,3.6
+2020,Norte,PA,1502301,Capitão Poço,Urbana,Privada,0.0,33.3,33.3,33.4
+2020,Norte,PA,1502301,Capitão Poço,Urbana,Pública,11.1,72.2,16.7,0.0
+2020,Norte,PA,1502301,Capitão Poço,Rural,Pública,16.1,38.7,39.8,5.4
+2020,Norte,PA,1502400,Castanhal,Urbana,Federal,0.0,0.0,0.0,100.0
+2020,Norte,PA,1502400,Castanhal,Urbana,Estadual,0.0,0.0,58.8,41.2
+2020,Norte,PA,1502400,Castanhal,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502400,Castanhal,Urbana,Municipal,10.5,60.5,29.0,0.0
+2020,Norte,PA,1502400,Castanhal,Rural,Municipal,12.1,51.5,36.4,0.0
+2020,Norte,PA,1502400,Castanhal,Urbana,Privada,3.7,14.8,55.6,25.9
+2020,Norte,PA,1502400,Castanhal,Urbana,Pública,7.1,41.1,37.5,14.3
+2020,Norte,PA,1502400,Castanhal,Rural,Pública,11.8,50.0,38.2,0.0
+2020,Norte,PA,1502509,Chaves,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1502509,Chaves,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1502509,Chaves,Rural,Municipal,35.5,38.7,23.7,2.1
+2020,Norte,PA,1502509,Chaves,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,PA,1502509,Chaves,Rural,Pública,35.5,38.7,23.7,2.1
+2020,Norte,PA,1502608,Colares,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502608,Colares,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1502608,Colares,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502608,Colares,Rural,Municipal,10.0,15.0,20.0,55.0
+2020,Norte,PA,1502608,Colares,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502608,Colares,Rural,Pública,8.3,20.8,25.0,45.9
+2020,Norte,PA,1502707,Conceição do Araguaia,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502707,Conceição do Araguaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502707,Conceição do Araguaia,Urbana,Municipal,0.0,30.8,53.8,15.4
+2020,Norte,PA,1502707,Conceição do Araguaia,Rural,Municipal,14.3,42.9,42.8,0.0
+2020,Norte,PA,1502707,Conceição do Araguaia,Urbana,Privada,0.0,0.0,33.3,66.7
+2020,Norte,PA,1502707,Conceição do Araguaia,Urbana,Pública,0.0,21.1,68.4,10.5
+2020,Norte,PA,1502707,Conceição do Araguaia,Rural,Pública,14.3,42.9,42.8,0.0
+2020,Norte,PA,1502756,Concórdia do Pará,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1502756,Concórdia do Pará,Urbana,Municipal,0.0,33.3,55.6,11.1
+2020,Norte,PA,1502756,Concórdia do Pará,Rural,Municipal,25.0,38.2,22.1,14.7
+2020,Norte,PA,1502756,Concórdia do Pará,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,PA,1502756,Concórdia do Pará,Urbana,Pública,0.0,27.3,54.5,18.2
+2020,Norte,PA,1502756,Concórdia do Pará,Rural,Pública,25.0,38.2,22.1,14.7
+2020,Norte,PA,1502764,Cumaru do Norte,Urbana,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,PA,1502764,Cumaru do Norte,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1502764,Cumaru do Norte,Rural,Municipal,23.1,46.2,30.7,0.0
+2020,Norte,PA,1502764,Cumaru do Norte,Urbana,Pública,25.0,25.0,50.0,0.0
+2020,Norte,PA,1502764,Cumaru do Norte,Rural,Pública,23.1,46.2,30.7,0.0
+2020,Norte,PA,1502772,Curionópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502772,Curionópolis,Urbana,Municipal,0.0,9.1,63.6,27.3
+2020,Norte,PA,1502772,Curionópolis,Rural,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1502772,Curionópolis,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502772,Curionópolis,Urbana,Pública,0.0,7.7,69.2,23.1
+2020,Norte,PA,1502772,Curionópolis,Rural,Pública,0.0,25.0,75.0,0.0
+2020,Norte,PA,1502806,Curralinho,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1502806,Curralinho,Urbana,Municipal,0.0,20.0,0.0,80.0
+2020,Norte,PA,1502806,Curralinho,Rural,Municipal,8.1,27.0,51.4,13.5
+2020,Norte,PA,1502806,Curralinho,Urbana,Pública,0.0,14.3,14.3,71.4
+2020,Norte,PA,1502806,Curralinho,Rural,Pública,8.1,27.0,51.4,13.5
+2020,Norte,PA,1502855,Curuá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502855,Curuá,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502855,Curuá,Rural,Municipal,6.3,21.9,50.0,21.8
+2020,Norte,PA,1502855,Curuá,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502855,Curuá,Rural,Pública,6.3,21.9,50.0,21.8
+2020,Norte,PA,1502905,Curuçá,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,PA,1502905,Curuçá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1502905,Curuçá,Urbana,Municipal,12.5,12.5,62.5,12.5
+2020,Norte,PA,1502905,Curuçá,Rural,Municipal,4.7,39.5,55.8,0.0
+2020,Norte,PA,1502905,Curuçá,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502905,Curuçá,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502905,Curuçá,Urbana,Pública,9.1,27.3,54.5,9.1
+2020,Norte,PA,1502905,Curuçá,Rural,Pública,4.3,43.5,52.2,0.0
+2020,Norte,PA,1502939,Dom Eliseu,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502939,Dom Eliseu,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502939,Dom Eliseu,Urbana,Municipal,0.0,20.0,73.3,6.7
+2020,Norte,PA,1502939,Dom Eliseu,Rural,Municipal,20.0,56.0,24.0,0.0
+2020,Norte,PA,1502939,Dom Eliseu,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1502939,Dom Eliseu,Urbana,Pública,0.0,18.8,75.0,6.2
+2020,Norte,PA,1502939,Dom Eliseu,Rural,Pública,19.2,53.8,27.0,0.0
+2020,Norte,PA,1502954,Eldorado do Carajás,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1502954,Eldorado do Carajás,Urbana,Municipal,0.0,22.2,66.7,11.1
+2020,Norte,PA,1502954,Eldorado do Carajás,Rural,Municipal,18.8,28.1,37.5,15.6
+2020,Norte,PA,1502954,Eldorado do Carajás,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1502954,Eldorado do Carajás,Urbana,Pública,0.0,36.4,54.5,9.1
+2020,Norte,PA,1502954,Eldorado do Carajás,Rural,Pública,18.8,28.1,37.5,15.6
+2020,Norte,PA,1503002,Faro,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503002,Faro,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503002,Faro,Urbana,Municipal,0.0,20.0,40.0,40.0
+2020,Norte,PA,1503002,Faro,Rural,Municipal,25.0,33.3,16.7,25.0
+2020,Norte,PA,1503002,Faro,Urbana,Pública,0.0,14.3,57.1,28.6
+2020,Norte,PA,1503002,Faro,Rural,Pública,23.1,30.8,23.1,23.0
+2020,Norte,PA,1503044,Floresta do Araguaia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503044,Floresta do Araguaia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503044,Floresta do Araguaia,Rural,Municipal,6.3,6.3,68.8,18.6
+2020,Norte,PA,1503044,Floresta do Araguaia,Urbana,Pública,0.0,14.3,85.7,0.0
+2020,Norte,PA,1503044,Floresta do Araguaia,Rural,Pública,6.3,6.3,68.8,18.6
+2020,Norte,PA,1503077,Garrafão do Norte,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503077,Garrafão do Norte,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503077,Garrafão do Norte,Urbana,Municipal,0.0,0.0,60.0,40.0
+2020,Norte,PA,1503077,Garrafão do Norte,Rural,Municipal,7.7,17.3,48.1,26.9
+2020,Norte,PA,1503077,Garrafão do Norte,Urbana,Pública,0.0,16.7,50.0,33.3
+2020,Norte,PA,1503077,Garrafão do Norte,Rural,Pública,7.5,18.9,47.2,26.4
+2020,Norte,PA,1503093,Goianésia do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503093,Goianésia do Pará,Urbana,Municipal,0.0,7.7,92.3,0.0
+2020,Norte,PA,1503093,Goianésia do Pará,Rural,Municipal,12.9,25.8,41.9,19.4
+2020,Norte,PA,1503093,Goianésia do Pará,Urbana,Privada,50.0,0.0,50.0,0.0
+2020,Norte,PA,1503093,Goianésia do Pará,Urbana,Pública,0.0,7.1,92.9,0.0
+2020,Norte,PA,1503093,Goianésia do Pará,Rural,Pública,12.9,25.8,41.9,19.4
+2020,Norte,PA,1503101,Gurupá,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503101,Gurupá,Urbana,Municipal,0.0,25.0,50.0,25.0
+2020,Norte,PA,1503101,Gurupá,Rural,Municipal,12.7,31.6,48.1,7.6
+2020,Norte,PA,1503101,Gurupá,Urbana,Pública,0.0,33.3,44.4,22.3
+2020,Norte,PA,1503101,Gurupá,Rural,Pública,12.7,31.6,48.1,7.6
+2020,Norte,PA,1503200,Igarapé-Açu,Urbana,Estadual,0.0,0.0,66.7,33.3
+2020,Norte,PA,1503200,Igarapé-Açu,Rural,Estadual,16.7,33.3,50.0,0.0
+2020,Norte,PA,1503200,Igarapé-Açu,Urbana,Municipal,0.0,36.4,54.5,9.1
+2020,Norte,PA,1503200,Igarapé-Açu,Rural,Municipal,17.1,29.3,39.0,14.6
+2020,Norte,PA,1503200,Igarapé-Açu,Urbana,Privada,0.0,33.3,33.3,33.4
+2020,Norte,PA,1503200,Igarapé-Açu,Urbana,Pública,0.0,23.5,58.8,17.7
+2020,Norte,PA,1503200,Igarapé-Açu,Rural,Pública,17.0,29.8,40.4,12.8
+2020,Norte,PA,1503309,Igarapé-Miri,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1503309,Igarapé-Miri,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503309,Igarapé-Miri,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,PA,1503309,Igarapé-Miri,Rural,Municipal,12.9,39.8,22.6,24.7
+2020,Norte,PA,1503309,Igarapé-Miri,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503309,Igarapé-Miri,Urbana,Pública,0.0,35.3,58.8,5.9
+2020,Norte,PA,1503309,Igarapé-Miri,Rural,Pública,12.8,39.4,23.4,24.4
+2020,Norte,PA,1503408,Inhangapi,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503408,Inhangapi,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503408,Inhangapi,Rural,Municipal,28.6,14.3,42.9,14.2
+2020,Norte,PA,1503408,Inhangapi,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503408,Inhangapi,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503408,Inhangapi,Rural,Pública,28.6,14.3,42.9,14.2
+2020,Norte,PA,1503457,Ipixuna do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503457,Ipixuna do Pará,Urbana,Municipal,0.0,16.7,50.0,33.3
+2020,Norte,PA,1503457,Ipixuna do Pará,Rural,Municipal,33.9,28.6,25.0,12.5
+2020,Norte,PA,1503457,Ipixuna do Pará,Urbana,Pública,0.0,14.3,57.1,28.6
+2020,Norte,PA,1503457,Ipixuna do Pará,Rural,Pública,33.9,28.6,25.0,12.5
+2020,Norte,PA,1503507,Irituia,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1503507,Irituia,Rural,Estadual,0.0,80.0,0.0,20.0
+2020,Norte,PA,1503507,Irituia,Urbana,Municipal,0.0,0.0,80.0,20.0
+2020,Norte,PA,1503507,Irituia,Rural,Municipal,28.6,33.0,19.8,18.6
+2020,Norte,PA,1503507,Irituia,Urbana,Pública,0.0,14.3,71.4,14.3
+2020,Norte,PA,1503507,Irituia,Rural,Pública,27.1,35.4,18.8,18.7
+2020,Norte,PA,1503606,Itaituba,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503606,Itaituba,Urbana,Estadual,0.0,16.7,83.3,0.0
+2020,Norte,PA,1503606,Itaituba,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503606,Itaituba,Urbana,Municipal,0.0,30.0,67.5,2.5
+2020,Norte,PA,1503606,Itaituba,Rural,Municipal,16.4,20.5,43.8,19.3
+2020,Norte,PA,1503606,Itaituba,Urbana,Privada,0.0,0.0,80.0,20.0
+2020,Norte,PA,1503606,Itaituba,Urbana,Pública,0.0,29.8,68.1,2.1
+2020,Norte,PA,1503606,Itaituba,Rural,Pública,16.2,21.6,43.2,19.0
+2020,Norte,PA,1503705,Itupiranga,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503705,Itupiranga,Rural,Estadual,33.3,33.3,33.4,0.0
+2020,Norte,PA,1503705,Itupiranga,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,PA,1503705,Itupiranga,Rural,Municipal,26.2,27.7,18.5,27.6
+2020,Norte,PA,1503705,Itupiranga,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1503705,Itupiranga,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1503705,Itupiranga,Rural,Pública,26.5,27.9,19.1,26.5
+2020,Norte,PA,1503754,Jacareacanga,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503754,Jacareacanga,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503754,Jacareacanga,Rural,Municipal,23.1,30.8,38.5,7.6
+2020,Norte,PA,1503754,Jacareacanga,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503754,Jacareacanga,Rural,Pública,23.1,30.8,38.5,7.6
+2020,Norte,PA,1503804,Jacundá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1503804,Jacundá,Urbana,Municipal,8.7,52.2,34.8,4.3
+2020,Norte,PA,1503804,Jacundá,Rural,Municipal,7.1,28.6,42.9,21.4
+2020,Norte,PA,1503804,Jacundá,Urbana,Privada,0.0,20.0,80.0,0.0
+2020,Norte,PA,1503804,Jacundá,Urbana,Pública,8.0,48.0,40.0,4.0
+2020,Norte,PA,1503804,Jacundá,Rural,Pública,7.1,28.6,42.9,21.4
+2020,Norte,PA,1503903,Juruti,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,PA,1503903,Juruti,Urbana,Municipal,6.7,46.7,33.3,13.3
+2020,Norte,PA,1503903,Juruti,Rural,Municipal,35.0,26.0,26.0,13.0
+2020,Norte,PA,1503903,Juruti,Urbana,Privada,50.0,0.0,0.0,50.0
+2020,Norte,PA,1503903,Juruti,Urbana,Pública,5.3,42.1,42.1,10.5
+2020,Norte,PA,1503903,Juruti,Rural,Pública,35.0,26.0,26.0,13.0
+2020,Norte,PA,1504000,Limoeiro do Ajuru,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1504000,Limoeiro do Ajuru,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1504000,Limoeiro do Ajuru,Rural,Municipal,9.1,40.9,38.6,11.4
+2020,Norte,PA,1504000,Limoeiro do Ajuru,Urbana,Pública,0.0,20.0,40.0,40.0
+2020,Norte,PA,1504000,Limoeiro do Ajuru,Rural,Pública,9.1,40.9,38.6,11.4
+2020,Norte,PA,1504059,Mãe do Rio,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504059,Mãe do Rio,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1504059,Mãe do Rio,Rural,Municipal,0.0,25.0,43.8,31.2
+2020,Norte,PA,1504059,Mãe do Rio,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504059,Mãe do Rio,Urbana,Pública,0.0,21.4,78.6,0.0
+2020,Norte,PA,1504059,Mãe do Rio,Rural,Pública,0.0,25.0,43.8,31.2
+2020,Norte,PA,1504109,Magalhães Barata,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504109,Magalhães Barata,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1504109,Magalhães Barata,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504109,Magalhães Barata,Rural,Municipal,12.5,6.3,56.3,24.9
+2020,Norte,PA,1504109,Magalhães Barata,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504109,Magalhães Barata,Rural,Pública,11.8,11.8,52.9,23.5
+2020,Norte,PA,1504208,Marabá,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504208,Marabá,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504208,Marabá,Urbana,Estadual,0.0,60.0,40.0,0.0
+2020,Norte,PA,1504208,Marabá,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1504208,Marabá,Urbana,Municipal,5.8,43.3,42.3,8.6
+2020,Norte,PA,1504208,Marabá,Rural,Municipal,34.1,40.9,18.2,6.8
+2020,Norte,PA,1504208,Marabá,Urbana,Privada,6.7,30.0,43.3,20.0
+2020,Norte,PA,1504208,Marabá,Urbana,Pública,4.8,45.6,42.4,7.2
+2020,Norte,PA,1504208,Marabá,Rural,Pública,33.3,41.1,18.9,6.7
+2020,Norte,PA,1504307,Maracanã,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1504307,Maracanã,Urbana,Municipal,7.7,46.2,46.1,0.0
+2020,Norte,PA,1504307,Maracanã,Rural,Municipal,6.9,15.3,47.2,30.6
+2020,Norte,PA,1504307,Maracanã,Urbana,Pública,6.7,46.7,46.6,0.0
+2020,Norte,PA,1504307,Maracanã,Rural,Pública,6.9,15.3,47.2,30.6
+2020,Norte,PA,1504406,Marapanim,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504406,Marapanim,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504406,Marapanim,Urbana,Municipal,0.0,22.2,77.8,0.0
+2020,Norte,PA,1504406,Marapanim,Rural,Municipal,0.0,28.3,58.7,13.0
+2020,Norte,PA,1504406,Marapanim,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,PA,1504406,Marapanim,Rural,Pública,0.0,27.7,59.6,12.7
+2020,Norte,PA,1504422,Marituba,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,PA,1504422,Marituba,Urbana,Municipal,0.0,8.8,68.4,22.8
+2020,Norte,PA,1504422,Marituba,Rural,Municipal,0.0,0.0,75.0,25.0
+2020,Norte,PA,1504422,Marituba,Urbana,Privada,0.0,25.0,50.0,25.0
+2020,Norte,PA,1504422,Marituba,Urbana,Pública,0.0,10.8,69.2,20.0
+2020,Norte,PA,1504422,Marituba,Rural,Pública,0.0,0.0,75.0,25.0
+2020,Norte,PA,1504455,Medicilândia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1504455,Medicilândia,Urbana,Municipal,16.7,33.3,50.0,0.0
+2020,Norte,PA,1504455,Medicilândia,Rural,Municipal,10.3,24.1,37.9,27.7
+2020,Norte,PA,1504455,Medicilândia,Urbana,Pública,14.3,42.9,42.8,0.0
+2020,Norte,PA,1504455,Medicilândia,Rural,Pública,10.3,24.1,37.9,27.7
+2020,Norte,PA,1504505,Melgaço,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504505,Melgaço,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504505,Melgaço,Rural,Municipal,12.5,56.3,31.2,0.0
+2020,Norte,PA,1504505,Melgaço,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504505,Melgaço,Rural,Pública,12.5,56.3,31.2,0.0
+2020,Norte,PA,1504604,Mocajuba,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1504604,Mocajuba,Urbana,Municipal,0.0,35.7,64.3,0.0
+2020,Norte,PA,1504604,Mocajuba,Rural,Municipal,2.4,14.6,34.1,48.9
+2020,Norte,PA,1504604,Mocajuba,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,PA,1504604,Mocajuba,Urbana,Pública,0.0,33.3,60.0,6.7
+2020,Norte,PA,1504604,Mocajuba,Rural,Pública,2.4,14.6,34.1,48.9
+2020,Norte,PA,1504703,Moju,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1504703,Moju,Urbana,Municipal,15.0,45.0,40.0,0.0
+2020,Norte,PA,1504703,Moju,Rural,Municipal,32.4,33.8,17.2,16.6
+2020,Norte,PA,1504703,Moju,Urbana,Pública,13.0,43.5,43.5,0.0
+2020,Norte,PA,1504703,Moju,Rural,Pública,32.4,33.8,17.2,16.6
+2020,Norte,PA,1504752,Mojuí dos Campos,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1504752,Mojuí dos Campos,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,PA,1504752,Mojuí dos Campos,Rural,Municipal,11.8,27.5,37.3,23.4
+2020,Norte,PA,1504752,Mojuí dos Campos,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1504752,Mojuí dos Campos,Rural,Pública,11.8,27.5,37.3,23.4
+2020,Norte,PA,1504802,Monte Alegre,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504802,Monte Alegre,Urbana,Municipal,0.0,5.0,55.0,40.0
+2020,Norte,PA,1504802,Monte Alegre,Rural,Municipal,2.8,14.8,38.9,43.5
+2020,Norte,PA,1504802,Monte Alegre,Urbana,Privada,0.0,66.7,33.3,0.0
+2020,Norte,PA,1504802,Monte Alegre,Urbana,Pública,0.0,4.2,62.5,33.3
+2020,Norte,PA,1504802,Monte Alegre,Rural,Pública,2.8,14.8,38.9,43.5
+2020,Norte,PA,1504901,Muaná,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504901,Muaná,Urbana,Municipal,0.0,80.0,20.0,0.0
+2020,Norte,PA,1504901,Muaná,Rural,Municipal,7.9,47.4,34.2,10.5
+2020,Norte,PA,1504901,Muaná,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,PA,1504901,Muaná,Rural,Pública,7.9,47.4,34.2,10.5
+2020,Norte,PA,1504950,Nova Esperança do Piriá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504950,Nova Esperança do Piriá,Urbana,Municipal,0.0,57.1,42.9,0.0
+2020,Norte,PA,1504950,Nova Esperança do Piriá,Rural,Municipal,28.9,34.2,23.7,13.2
+2020,Norte,PA,1504950,Nova Esperança do Piriá,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1504950,Nova Esperança do Piriá,Rural,Pública,28.9,34.2,23.7,13.2
+2020,Norte,PA,1504976,Nova Ipixuna,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1504976,Nova Ipixuna,Urbana,Municipal,0.0,16.7,83.3,0.0
+2020,Norte,PA,1504976,Nova Ipixuna,Rural,Municipal,0.0,20.0,70.0,10.0
+2020,Norte,PA,1504976,Nova Ipixuna,Urbana,Pública,0.0,14.3,85.7,0.0
+2020,Norte,PA,1504976,Nova Ipixuna,Rural,Pública,0.0,20.0,70.0,10.0
+2020,Norte,PA,1505007,Nova Timboteua,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1505007,Nova Timboteua,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1505007,Nova Timboteua,Rural,Municipal,5.6,33.3,33.3,27.8
+2020,Norte,PA,1505007,Nova Timboteua,Urbana,Pública,0.0,20.0,60.0,20.0
+2020,Norte,PA,1505007,Nova Timboteua,Rural,Pública,5.6,33.3,33.3,27.8
+2020,Norte,PA,1505031,Novo Progresso,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505031,Novo Progresso,Urbana,Municipal,0.0,21.4,71.4,7.2
+2020,Norte,PA,1505031,Novo Progresso,Rural,Municipal,9.1,27.3,36.4,27.2
+2020,Norte,PA,1505031,Novo Progresso,Urbana,Privada,33.3,33.3,33.4,0.0
+2020,Norte,PA,1505031,Novo Progresso,Urbana,Pública,0.0,26.7,66.7,6.6
+2020,Norte,PA,1505031,Novo Progresso,Rural,Pública,9.1,27.3,36.4,27.2
+2020,Norte,PA,1505064,Novo Repartimento,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505064,Novo Repartimento,Urbana,Municipal,0.0,8.3,83.3,8.4
+2020,Norte,PA,1505064,Novo Repartimento,Rural,Municipal,25.6,32.6,26.7,15.1
+2020,Norte,PA,1505064,Novo Repartimento,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505064,Novo Repartimento,Urbana,Pública,0.0,15.4,76.9,7.7
+2020,Norte,PA,1505064,Novo Repartimento,Rural,Pública,25.6,32.6,26.7,15.1
+2020,Norte,PA,1505106,Óbidos,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505106,Óbidos,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505106,Óbidos,Urbana,Municipal,13.3,33.3,53.4,0.0
+2020,Norte,PA,1505106,Óbidos,Rural,Municipal,21.1,31.0,32.4,15.5
+2020,Norte,PA,1505106,Óbidos,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505106,Óbidos,Urbana,Pública,11.1,33.3,55.6,0.0
+2020,Norte,PA,1505106,Óbidos,Rural,Pública,21.1,31.0,32.4,15.5
+2020,Norte,PA,1505205,Oeiras do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505205,Oeiras do Pará,Urbana,Municipal,0.0,0.0,85.7,14.3
+2020,Norte,PA,1505205,Oeiras do Pará,Rural,Municipal,2.6,13.2,44.7,39.5
+2020,Norte,PA,1505205,Oeiras do Pará,Urbana,Pública,0.0,0.0,87.5,12.5
+2020,Norte,PA,1505205,Oeiras do Pará,Rural,Pública,2.6,13.2,44.7,39.5
+2020,Norte,PA,1505304,Oriximiná,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1505304,Oriximiná,Urbana,Municipal,0.0,0.0,65.2,34.8
+2020,Norte,PA,1505304,Oriximiná,Rural,Municipal,1.6,12.9,38.7,46.8
+2020,Norte,PA,1505304,Oriximiná,Urbana,Privada,0.0,66.7,33.3,0.0
+2020,Norte,PA,1505304,Oriximiná,Urbana,Pública,0.0,3.8,65.4,30.8
+2020,Norte,PA,1505304,Oriximiná,Rural,Pública,1.6,12.9,38.7,46.8
+2020,Norte,PA,1505403,Ourém,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505403,Ourém,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505403,Ourém,Urbana,Municipal,16.7,50.0,33.3,0.0
+2020,Norte,PA,1505403,Ourém,Rural,Municipal,12.9,48.4,32.3,6.4
+2020,Norte,PA,1505403,Ourém,Urbana,Pública,11.1,33.3,55.6,0.0
+2020,Norte,PA,1505403,Ourém,Rural,Pública,12.5,50.0,31.3,6.2
+2020,Norte,PA,1505437,Ourilândia do Norte,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505437,Ourilândia do Norte,Urbana,Municipal,7.7,46.2,38.5,7.6
+2020,Norte,PA,1505437,Ourilândia do Norte,Rural,Municipal,26.7,40.0,26.7,6.6
+2020,Norte,PA,1505437,Ourilândia do Norte,Urbana,Privada,50.0,50.0,0.0,0.0
+2020,Norte,PA,1505437,Ourilândia do Norte,Urbana,Pública,7.1,42.9,42.9,7.1
+2020,Norte,PA,1505437,Ourilândia do Norte,Rural,Pública,26.7,40.0,26.7,6.6
+2020,Norte,PA,1505486,Pacajá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505486,Pacajá,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1505486,Pacajá,Urbana,Municipal,0.0,7.7,76.9,15.4
+2020,Norte,PA,1505486,Pacajá,Rural,Municipal,25.5,32.4,23.5,18.6
+2020,Norte,PA,1505486,Pacajá,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505486,Pacajá,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505486,Pacajá,Urbana,Pública,0.0,7.1,78.6,14.3
+2020,Norte,PA,1505486,Pacajá,Rural,Pública,25.2,32.0,23.3,19.5
+2020,Norte,PA,1505494,Palestina do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505494,Palestina do Pará,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505494,Palestina do Pará,Rural,Municipal,0.0,20.0,60.0,20.0
+2020,Norte,PA,1505494,Palestina do Pará,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505494,Palestina do Pará,Rural,Pública,0.0,20.0,60.0,20.0
+2020,Norte,PA,1505502,Paragominas,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505502,Paragominas,Urbana,Estadual,0.0,25.0,25.0,50.0
+2020,Norte,PA,1505502,Paragominas,Urbana,Municipal,0.0,21.2,54.5,24.3
+2020,Norte,PA,1505502,Paragominas,Rural,Municipal,25.6,32.6,27.9,13.9
+2020,Norte,PA,1505502,Paragominas,Urbana,Privada,10.0,30.0,50.0,10.0
+2020,Norte,PA,1505502,Paragominas,Urbana,Pública,0.0,21.1,52.6,26.3
+2020,Norte,PA,1505502,Paragominas,Rural,Pública,25.6,32.6,27.9,13.9
+2020,Norte,PA,1505536,Parauapebas,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505536,Parauapebas,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1505536,Parauapebas,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505536,Parauapebas,Urbana,Municipal,5.6,38.9,50.0,5.5
+2020,Norte,PA,1505536,Parauapebas,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505536,Parauapebas,Urbana,Privada,9.5,38.1,52.4,0.0
+2020,Norte,PA,1505536,Parauapebas,Urbana,Pública,4.5,37.3,53.7,4.5
+2020,Norte,PA,1505536,Parauapebas,Rural,Pública,0.0,53.8,46.2,0.0
+2020,Norte,PA,1505551,Pau D'Arco,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505551,Pau D'Arco,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505551,Pau D'Arco,Rural,Municipal,33.3,33.3,33.4,0.0
+2020,Norte,PA,1505551,Pau D'Arco,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,PA,1505551,Pau D'Arco,Rural,Pública,33.3,33.3,33.4,0.0
+2020,Norte,PA,1505601,Peixe-Boi,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505601,Peixe-Boi,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,PA,1505601,Peixe-Boi,Rural,Municipal,0.0,27.3,45.5,27.2
+2020,Norte,PA,1505601,Peixe-Boi,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505601,Peixe-Boi,Rural,Pública,0.0,27.3,45.5,27.2
+2020,Norte,PA,1505635,Piçarra,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505635,Piçarra,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505635,Piçarra,Rural,Municipal,5.0,15.0,30.0,50.0
+2020,Norte,PA,1505635,Piçarra,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1505635,Piçarra,Rural,Pública,5.0,15.0,30.0,50.0
+2020,Norte,PA,1505650,Placas,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1505650,Placas,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505650,Placas,Rural,Municipal,13.5,32.7,23.1,30.7
+2020,Norte,PA,1505650,Placas,Urbana,Pública,0.0,57.1,42.9,0.0
+2020,Norte,PA,1505650,Placas,Rural,Pública,13.5,32.7,23.1,30.7
+2020,Norte,PA,1505700,Ponta de Pedras,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505700,Ponta de Pedras,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505700,Ponta de Pedras,Rural,Municipal,0.0,22.5,50.0,27.5
+2020,Norte,PA,1505700,Ponta de Pedras,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505700,Ponta de Pedras,Rural,Pública,0.0,22.5,50.0,27.5
+2020,Norte,PA,1505809,Portel,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1505809,Portel,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1505809,Portel,Rural,Municipal,35.9,43.4,15.2,5.5
+2020,Norte,PA,1505809,Portel,Urbana,Pública,0.0,22.2,77.8,0.0
+2020,Norte,PA,1505809,Portel,Rural,Pública,35.9,43.4,15.2,5.5
+2020,Norte,PA,1505908,Porto de Moz,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1505908,Porto de Moz,Urbana,Municipal,0.0,37.5,62.5,0.0
+2020,Norte,PA,1505908,Porto de Moz,Rural,Municipal,41.6,27.3,29.9,1.2
+2020,Norte,PA,1505908,Porto de Moz,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,PA,1505908,Porto de Moz,Rural,Pública,41.6,27.3,29.9,1.2
+2020,Norte,PA,1506005,Prainha,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1506005,Prainha,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506005,Prainha,Rural,Municipal,27.5,36.3,18.7,17.5
+2020,Norte,PA,1506005,Prainha,Urbana,Pública,0.0,42.9,57.1,0.0
+2020,Norte,PA,1506005,Prainha,Rural,Pública,27.5,36.3,18.7,17.5
+2020,Norte,PA,1506104,Primavera,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506104,Primavera,Urbana,Municipal,71.4,28.6,0.0,0.0
+2020,Norte,PA,1506104,Primavera,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,PA,1506104,Primavera,Urbana,Pública,55.6,22.2,22.2,0.0
+2020,Norte,PA,1506104,Primavera,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,PA,1506112,Quatipuru,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506112,Quatipuru,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506112,Quatipuru,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,PA,1506112,Quatipuru,Rural,Municipal,28.6,14.3,42.9,14.2
+2020,Norte,PA,1506112,Quatipuru,Urbana,Pública,0.0,28.6,71.4,0.0
+2020,Norte,PA,1506112,Quatipuru,Rural,Pública,25.0,12.5,50.0,12.5
+2020,Norte,PA,1506138,Redenção,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506138,Redenção,Urbana,Municipal,22.6,61.3,16.1,0.0
+2020,Norte,PA,1506138,Redenção,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506138,Redenção,Urbana,Privada,6.7,13.3,53.3,26.7
+2020,Norte,PA,1506138,Redenção,Urbana,Pública,20.6,55.9,23.5,0.0
+2020,Norte,PA,1506138,Redenção,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506161,Rio Maria,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506161,Rio Maria,Urbana,Municipal,0.0,0.0,87.5,12.5
+2020,Norte,PA,1506161,Rio Maria,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506161,Rio Maria,Urbana,Privada,0.0,0.0,66.7,33.3
+2020,Norte,PA,1506161,Rio Maria,Urbana,Pública,0.0,0.0,88.9,11.1
+2020,Norte,PA,1506161,Rio Maria,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506187,Rondon do Pará,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1506187,Rondon do Pará,Urbana,Municipal,0.0,15.4,76.9,7.7
+2020,Norte,PA,1506187,Rondon do Pará,Rural,Municipal,0.0,13.3,73.3,13.4
+2020,Norte,PA,1506187,Rondon do Pará,Urbana,Privada,0.0,0.0,50.0,50.0
+2020,Norte,PA,1506187,Rondon do Pará,Urbana,Pública,0.0,14.3,71.4,14.3
+2020,Norte,PA,1506187,Rondon do Pará,Rural,Pública,0.0,13.3,73.3,13.4
+2020,Norte,PA,1506195,Rurópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506195,Rurópolis,Urbana,Municipal,0.0,22.2,77.8,0.0
+2020,Norte,PA,1506195,Rurópolis,Rural,Municipal,4.1,28.6,34.7,32.6
+2020,Norte,PA,1506195,Rurópolis,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,PA,1506195,Rurópolis,Rural,Pública,4.1,28.6,34.7,32.6
+2020,Norte,PA,1506203,Salinópolis,Urbana,Estadual,0.0,55.6,44.4,0.0
+2020,Norte,PA,1506203,Salinópolis,Urbana,Municipal,0.0,6.3,56.3,37.4
+2020,Norte,PA,1506203,Salinópolis,Rural,Municipal,0.0,12.5,62.5,25.0
+2020,Norte,PA,1506203,Salinópolis,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506203,Salinópolis,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506203,Salinópolis,Urbana,Pública,0.0,24.0,52.0,24.0
+2020,Norte,PA,1506203,Salinópolis,Rural,Pública,0.0,12.5,62.5,25.0
+2020,Norte,PA,1506302,Salvaterra,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506302,Salvaterra,Urbana,Municipal,0.0,9.1,54.5,36.4
+2020,Norte,PA,1506302,Salvaterra,Rural,Municipal,5.7,14.3,45.7,34.3
+2020,Norte,PA,1506302,Salvaterra,Urbana,Pública,0.0,14.3,57.1,28.6
+2020,Norte,PA,1506302,Salvaterra,Rural,Pública,5.7,14.3,45.7,34.3
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Urbana,Municipal,28.6,71.4,0.0,0.0
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Rural,Municipal,8.3,41.7,25.0,25.0
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Urbana,Pública,20.0,60.0,20.0,0.0
+2020,Norte,PA,1506351,Santa Bárbara do Pará,Rural,Pública,7.1,42.9,28.6,21.4
+2020,Norte,PA,1506401,Santa Cruz do Arari,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506401,Santa Cruz do Arari,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506401,Santa Cruz do Arari,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,PA,1506401,Santa Cruz do Arari,Rural,Municipal,20.0,46.7,20.0,13.3
+2020,Norte,PA,1506401,Santa Cruz do Arari,Urbana,Pública,0.0,0.0,66.7,33.3
+2020,Norte,PA,1506401,Santa Cruz do Arari,Rural,Pública,18.8,43.8,25.0,12.4
+2020,Norte,PA,1506500,Santa Izabel do Pará,Urbana,Estadual,0.0,33.3,0.0,66.7
+2020,Norte,PA,1506500,Santa Izabel do Pará,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1506500,Santa Izabel do Pará,Urbana,Municipal,0.0,58.8,41.2,0.0
+2020,Norte,PA,1506500,Santa Izabel do Pará,Rural,Municipal,12.1,51.5,36.4,0.0
+2020,Norte,PA,1506500,Santa Izabel do Pará,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506500,Santa Izabel do Pará,Urbana,Pública,0.0,55.0,35.0,10.0
+2020,Norte,PA,1506500,Santa Izabel do Pará,Rural,Pública,11.8,50.0,35.3,2.9
+2020,Norte,PA,1506559,Santa Luzia do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506559,Santa Luzia do Pará,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506559,Santa Luzia do Pará,Rural,Municipal,0.0,25.0,41.7,33.3
+2020,Norte,PA,1506559,Santa Luzia do Pará,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,PA,1506559,Santa Luzia do Pará,Rural,Pública,0.0,25.0,41.7,33.3
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Rural,Municipal,0.0,16.7,50.0,33.3
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Rural,Privada,0.0,0.0,0.0,100.0
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1506583,Santa Maria das Barreiras,Rural,Pública,0.0,16.7,50.0,33.3
+2020,Norte,PA,1506609,Santa Maria do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506609,Santa Maria do Pará,Rural,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,PA,1506609,Santa Maria do Pará,Urbana,Municipal,0.0,44.4,55.6,0.0
+2020,Norte,PA,1506609,Santa Maria do Pará,Rural,Municipal,5.7,22.9,40.0,31.4
+2020,Norte,PA,1506609,Santa Maria do Pará,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,PA,1506609,Santa Maria do Pará,Urbana,Pública,0.0,30.8,69.2,0.0
+2020,Norte,PA,1506609,Santa Maria do Pará,Rural,Pública,5.3,26.3,39.5,28.9
+2020,Norte,PA,1506708,Santana do Araguaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506708,Santana do Araguaia,Urbana,Municipal,0.0,33.3,55.6,11.1
+2020,Norte,PA,1506708,Santana do Araguaia,Rural,Municipal,0.0,18.8,62.5,18.7
+2020,Norte,PA,1506708,Santana do Araguaia,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,PA,1506708,Santana do Araguaia,Urbana,Pública,0.0,30.0,60.0,10.0
+2020,Norte,PA,1506708,Santana do Araguaia,Rural,Pública,0.0,18.8,62.5,18.7
+2020,Norte,PA,1506807,Santarém,Urbana,Federal,0.0,0.0,0.0,100.0
+2020,Norte,PA,1506807,Santarém,Urbana,Estadual,3.2,16.1,64.5,16.2
+2020,Norte,PA,1506807,Santarém,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1506807,Santarém,Urbana,Municipal,0.0,20.2,75.0,4.8
+2020,Norte,PA,1506807,Santarém,Rural,Municipal,13.5,24.2,39.7,22.6
+2020,Norte,PA,1506807,Santarém,Urbana,Privada,10.0,22.5,35.0,32.5
+2020,Norte,PA,1506807,Santarém,Rural,Privada,0.0,50.0,0.0,50.0
+2020,Norte,PA,1506807,Santarém,Urbana,Pública,0.9,19.0,71.6,8.5
+2020,Norte,PA,1506807,Santarém,Rural,Pública,13.4,24.2,39.9,22.5
+2020,Norte,PA,1506906,Santarém Novo,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1506906,Santarém Novo,Urbana,Municipal,50.0,50.0,0.0,0.0
+2020,Norte,PA,1506906,Santarém Novo,Rural,Municipal,25.0,66.7,8.3,0.0
+2020,Norte,PA,1506906,Santarém Novo,Urbana,Pública,40.0,60.0,0.0,0.0
+2020,Norte,PA,1506906,Santarém Novo,Rural,Pública,25.0,66.7,8.3,0.0
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Urbana,Municipal,0.0,22.2,66.7,11.1
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Rural,Municipal,6.7,17.8,48.9,26.6
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Urbana,Pública,0.0,18.2,63.6,18.2
+2020,Norte,PA,1507003,Santo Antônio do Tauá,Rural,Pública,6.7,17.8,48.9,26.6
+2020,Norte,PA,1507102,São Caetano de Odivelas,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507102,São Caetano de Odivelas,Urbana,Municipal,0.0,0.0,60.0,40.0
+2020,Norte,PA,1507102,São Caetano de Odivelas,Rural,Municipal,3.6,10.7,39.3,46.4
+2020,Norte,PA,1507102,São Caetano de Odivelas,Urbana,Pública,0.0,0.0,71.4,28.6
+2020,Norte,PA,1507102,São Caetano de Odivelas,Rural,Pública,3.6,10.7,39.3,46.4
+2020,Norte,PA,1507151,São Domingos do Araguaia,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,PA,1507151,São Domingos do Araguaia,Urbana,Municipal,0.0,0.0,45.5,54.5
+2020,Norte,PA,1507151,São Domingos do Araguaia,Rural,Municipal,4.8,33.3,38.1,23.8
+2020,Norte,PA,1507151,São Domingos do Araguaia,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507151,São Domingos do Araguaia,Urbana,Pública,0.0,0.0,41.7,58.3
+2020,Norte,PA,1507151,São Domingos do Araguaia,Rural,Pública,4.8,33.3,38.1,23.8
+2020,Norte,PA,1507201,São Domingos do Capim,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,PA,1507201,São Domingos do Capim,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1507201,São Domingos do Capim,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1507201,São Domingos do Capim,Rural,Municipal,9.2,21.1,48.7,21.0
+2020,Norte,PA,1507201,São Domingos do Capim,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507201,São Domingos do Capim,Rural,Pública,9.1,22.1,48.1,20.7
+2020,Norte,PA,1507300,São Félix do Xingu,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1507300,São Félix do Xingu,Urbana,Municipal,5.6,16.7,77.7,0.0
+2020,Norte,PA,1507300,São Félix do Xingu,Rural,Municipal,16.0,23.5,29.6,30.9
+2020,Norte,PA,1507300,São Félix do Xingu,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507300,São Félix do Xingu,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1507300,São Félix do Xingu,Urbana,Pública,5.3,21.1,73.6,0.0
+2020,Norte,PA,1507300,São Félix do Xingu,Rural,Pública,16.0,23.5,29.6,30.9
+2020,Norte,PA,1507409,São Francisco do Pará,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507409,São Francisco do Pará,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507409,São Francisco do Pará,Rural,Municipal,13.8,17.2,37.9,31.1
+2020,Norte,PA,1507409,São Francisco do Pará,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507409,São Francisco do Pará,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507409,São Francisco do Pará,Urbana,Pública,0.0,28.6,71.4,0.0
+2020,Norte,PA,1507409,São Francisco do Pará,Rural,Pública,13.8,17.2,37.9,31.1
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Urbana,Municipal,21.4,28.6,50.0,0.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Rural,Municipal,10.0,30.0,20.0,40.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Urbana,Pública,18.8,25.0,56.2,0.0
+2020,Norte,PA,1507458,São Geraldo do Araguaia,Rural,Pública,9.5,28.6,23.8,38.1
+2020,Norte,PA,1507466,São João da Ponta,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507466,São João da Ponta,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1507466,São João da Ponta,Rural,Municipal,9.1,81.8,9.1,0.0
+2020,Norte,PA,1507466,São João da Ponta,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507466,São João da Ponta,Rural,Pública,9.1,81.8,9.1,0.0
+2020,Norte,PA,1507474,São João de Pirabas,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507474,São João de Pirabas,Urbana,Municipal,0.0,60.0,40.0,0.0
+2020,Norte,PA,1507474,São João de Pirabas,Rural,Municipal,25.9,51.9,18.5,3.7
+2020,Norte,PA,1507474,São João de Pirabas,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1507474,São João de Pirabas,Rural,Pública,25.9,51.9,18.5,3.7
+2020,Norte,PA,1507508,São João do Araguaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507508,São João do Araguaia,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,PA,1507508,São João do Araguaia,Rural,Municipal,12.0,16.0,52.0,20.0
+2020,Norte,PA,1507508,São João do Araguaia,Urbana,Pública,0.0,0.0,75.0,25.0
+2020,Norte,PA,1507508,São João do Araguaia,Rural,Pública,12.0,16.0,52.0,20.0
+2020,Norte,PA,1507607,São Miguel do Guamá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507607,São Miguel do Guamá,Urbana,Municipal,0.0,16.7,61.1,22.2
+2020,Norte,PA,1507607,São Miguel do Guamá,Rural,Municipal,24.2,58.1,17.7,0.0
+2020,Norte,PA,1507607,São Miguel do Guamá,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507607,São Miguel do Guamá,Urbana,Pública,0.0,15.0,65.0,20.0
+2020,Norte,PA,1507607,São Miguel do Guamá,Rural,Pública,24.2,58.1,17.7,0.0
+2020,Norte,PA,1507706,São Sebastião da Boa Vista,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507706,São Sebastião da Boa Vista,Urbana,Municipal,0.0,40.0,40.0,20.0
+2020,Norte,PA,1507706,São Sebastião da Boa Vista,Rural,Municipal,2.9,11.4,57.1,28.6
+2020,Norte,PA,1507706,São Sebastião da Boa Vista,Urbana,Pública,0.0,33.3,50.0,16.7
+2020,Norte,PA,1507706,São Sebastião da Boa Vista,Rural,Pública,2.9,11.4,57.1,28.6
+2020,Norte,PA,1507755,Sapucaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507755,Sapucaia,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1507755,Sapucaia,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507755,Sapucaia,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,PA,1507755,Sapucaia,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507805,Senador José Porfírio,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1507805,Senador José Porfírio,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,PA,1507805,Senador José Porfírio,Rural,Municipal,19.0,42.9,28.6,9.5
+2020,Norte,PA,1507805,Senador José Porfírio,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507805,Senador José Porfírio,Rural,Pública,19.0,42.9,28.6,9.5
+2020,Norte,PA,1507904,Soure,Urbana,Estadual,0.0,25.0,50.0,25.0
+2020,Norte,PA,1507904,Soure,Urbana,Municipal,0.0,8.3,83.3,8.4
+2020,Norte,PA,1507904,Soure,Rural,Municipal,0.0,0.0,62.5,37.5
+2020,Norte,PA,1507904,Soure,Urbana,Pública,0.0,12.5,75.0,12.5
+2020,Norte,PA,1507904,Soure,Rural,Pública,0.0,0.0,62.5,37.5
+2020,Norte,PA,1507953,Tailândia,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,PA,1507953,Tailândia,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1507953,Tailândia,Urbana,Municipal,0.0,0.0,83.3,16.7
+2020,Norte,PA,1507953,Tailândia,Rural,Municipal,10.4,22.9,35.4,31.3
+2020,Norte,PA,1507953,Tailândia,Urbana,Privada,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507953,Tailândia,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507953,Tailândia,Urbana,Pública,0.0,9.5,76.2,14.3
+2020,Norte,PA,1507953,Tailândia,Rural,Pública,10.2,24.5,34.7,30.6
+2020,Norte,PA,1507961,Terra Alta,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507961,Terra Alta,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507961,Terra Alta,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,PA,1507961,Terra Alta,Rural,Municipal,36.4,54.5,9.1,0.0
+2020,Norte,PA,1507961,Terra Alta,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507961,Terra Alta,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1507961,Terra Alta,Rural,Pública,33.3,50.0,16.7,0.0
+2020,Norte,PA,1507979,Terra Santa,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1507979,Terra Santa,Urbana,Municipal,0.0,15.4,69.2,15.4
+2020,Norte,PA,1507979,Terra Santa,Rural,Municipal,16.7,33.3,8.3,41.7
+2020,Norte,PA,1507979,Terra Santa,Urbana,Pública,0.0,14.3,71.4,14.3
+2020,Norte,PA,1507979,Terra Santa,Rural,Pública,16.7,33.3,8.3,41.7
+2020,Norte,PA,1508001,Tomé-Açu,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508001,Tomé-Açu,Urbana,Municipal,11.1,59.3,29.6,0.0
+2020,Norte,PA,1508001,Tomé-Açu,Rural,Municipal,14.3,39.7,27.0,19.0
+2020,Norte,PA,1508001,Tomé-Açu,Urbana,Privada,0.0,0.0,66.7,33.3
+2020,Norte,PA,1508001,Tomé-Açu,Urbana,Pública,10.3,55.2,34.5,0.0
+2020,Norte,PA,1508001,Tomé-Açu,Rural,Pública,14.3,39.7,27.0,19.0
+2020,Norte,PA,1508035,Tracuateua,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508035,Tracuateua,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508035,Tracuateua,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,PA,1508035,Tracuateua,Rural,Municipal,24.5,58.5,7.5,9.5
+2020,Norte,PA,1508035,Tracuateua,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,PA,1508035,Tracuateua,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1508035,Tracuateua,Rural,Pública,24.1,57.4,9.3,9.2
+2020,Norte,PA,1508050,Trairão,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508050,Trairão,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,PA,1508050,Trairão,Rural,Municipal,20.0,33.3,33.3,13.4
+2020,Norte,PA,1508050,Trairão,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1508050,Trairão,Rural,Pública,20.0,33.3,33.3,13.4
+2020,Norte,PA,1508084,Tucumã,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508084,Tucumã,Urbana,Municipal,0.0,69.2,30.8,0.0
+2020,Norte,PA,1508084,Tucumã,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508084,Tucumã,Urbana,Privada,0.0,20.0,60.0,20.0
+2020,Norte,PA,1508084,Tucumã,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,PA,1508084,Tucumã,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508100,Tucuruí,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508100,Tucuruí,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508100,Tucuruí,Urbana,Municipal,5.9,88.2,5.9,0.0
+2020,Norte,PA,1508100,Tucuruí,Rural,Municipal,16.7,50.0,33.3,0.0
+2020,Norte,PA,1508100,Tucuruí,Urbana,Privada,8.3,16.7,50.0,25.0
+2020,Norte,PA,1508100,Tucuruí,Urbana,Pública,5.1,76.9,18.0,0.0
+2020,Norte,PA,1508100,Tucuruí,Rural,Pública,16.7,50.0,33.3,0.0
+2020,Norte,PA,1508126,Ulianópolis,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1508126,Ulianópolis,Urbana,Municipal,0.0,18.2,54.5,27.3
+2020,Norte,PA,1508126,Ulianópolis,Rural,Municipal,5.6,11.1,33.3,50.0
+2020,Norte,PA,1508126,Ulianópolis,Urbana,Pública,0.0,25.0,50.0,25.0
+2020,Norte,PA,1508126,Ulianópolis,Rural,Pública,5.6,11.1,33.3,50.0
+2020,Norte,PA,1508159,Uruará,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1508159,Uruará,Urbana,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,PA,1508159,Uruará,Rural,Municipal,8.8,23.5,33.8,33.9
+2020,Norte,PA,1508159,Uruará,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,PA,1508159,Uruará,Rural,Privada,0.0,50.0,50.0,0.0
+2020,Norte,PA,1508159,Uruará,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,PA,1508159,Uruará,Rural,Pública,8.8,23.5,33.8,33.9
+2020,Norte,PA,1508209,Vigia,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508209,Vigia,Urbana,Estadual,0.0,16.7,66.7,16.6
+2020,Norte,PA,1508209,Vigia,Rural,Estadual,20.0,40.0,40.0,0.0
+2020,Norte,PA,1508209,Vigia,Urbana,Municipal,4.5,45.5,40.9,9.1
+2020,Norte,PA,1508209,Vigia,Rural,Municipal,9.6,28.8,32.7,28.9
+2020,Norte,PA,1508209,Vigia,Urbana,Privada,0.0,0.0,33.3,66.7
+2020,Norte,PA,1508209,Vigia,Urbana,Pública,3.4,37.9,48.3,10.4
+2020,Norte,PA,1508209,Vigia,Rural,Pública,10.5,29.8,33.3,26.4
+2020,Norte,PA,1508308,Viseu,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,PA,1508308,Viseu,Urbana,Municipal,0.0,38.5,53.8,7.7
+2020,Norte,PA,1508308,Viseu,Rural,Municipal,1.9,20.6,43.0,34.5
+2020,Norte,PA,1508308,Viseu,Urbana,Pública,0.0,42.9,50.0,7.1
+2020,Norte,PA,1508308,Viseu,Rural,Pública,1.9,20.6,43.0,34.5
+2020,Norte,PA,1508357,Vitória do Xingu,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,PA,1508357,Vitória do Xingu,Urbana,Municipal,0.0,60.0,40.0,0.0
+2020,Norte,PA,1508357,Vitória do Xingu,Rural,Municipal,13.3,46.7,40.0,0.0
+2020,Norte,PA,1508357,Vitória do Xingu,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,PA,1508357,Vitória do Xingu,Rural,Pública,13.3,46.7,40.0,0.0
+2020,Norte,PA,1508407,Xinguara,Urbana,Estadual,0.0,0.0,75.0,25.0
+2020,Norte,PA,1508407,Xinguara,Urbana,Municipal,0.0,5.3,63.2,31.5
+2020,Norte,PA,1508407,Xinguara,Rural,Municipal,12.5,0.0,25.0,62.5
+2020,Norte,PA,1508407,Xinguara,Urbana,Privada,0.0,0.0,71.4,28.6
+2020,Norte,PA,1508407,Xinguara,Urbana,Pública,0.0,4.3,65.2,30.5
+2020,Norte,PA,1508407,Xinguara,Rural,Pública,12.5,0.0,25.0,62.5
+2020,Norte,AP,1600055,Serra do Navio,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600055,Serra do Navio,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600055,Serra do Navio,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600055,Serra do Navio,Rural,Municipal,25.0,0.0,75.0,0.0
+2020,Norte,AP,1600055,Serra do Navio,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600055,Serra do Navio,Rural,Pública,16.7,0.0,83.3,0.0
+2020,Norte,AP,1600105,Amapá,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,AP,1600105,Amapá,Rural,Estadual,75.0,0.0,25.0,0.0
+2020,Norte,AP,1600105,Amapá,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,AP,1600105,Amapá,Rural,Municipal,22.2,44.4,11.1,22.3
+2020,Norte,AP,1600105,Amapá,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600105,Amapá,Urbana,Pública,0.0,37.5,62.5,0.0
+2020,Norte,AP,1600105,Amapá,Rural,Pública,38.5,30.8,15.4,15.3
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Rural,Estadual,14.3,28.6,14.3,42.8
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Rural,Municipal,16.7,16.7,33.3,33.3
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Rural,Privada,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,AP,1600154,Pedra Branca do Amapari,Rural,Pública,15.0,25.0,20.0,40.0
+2020,Norte,AP,1600204,Calçoene,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600204,Calçoene,Rural,Estadual,50.0,50.0,0.0,0.0
+2020,Norte,AP,1600204,Calçoene,Urbana,Municipal,0.0,42.9,28.6,28.5
+2020,Norte,AP,1600204,Calçoene,Rural,Municipal,11.1,0.0,33.3,55.6
+2020,Norte,AP,1600204,Calçoene,Urbana,Pública,0.0,30.0,50.0,20.0
+2020,Norte,AP,1600204,Calçoene,Rural,Pública,18.2,9.1,27.3,45.4
+2020,Norte,AP,1600212,Cutias,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600212,Cutias,Rural,Estadual,57.1,28.6,14.3,0.0
+2020,Norte,AP,1600212,Cutias,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600212,Cutias,Rural,Municipal,33.3,0.0,44.4,22.3
+2020,Norte,AP,1600212,Cutias,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600212,Cutias,Rural,Pública,43.8,12.5,31.3,12.4
+2020,Norte,AP,1600238,Ferreira Gomes,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,AP,1600238,Ferreira Gomes,Rural,Estadual,75.0,0.0,25.0,0.0
+2020,Norte,AP,1600238,Ferreira Gomes,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,AP,1600238,Ferreira Gomes,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600238,Ferreira Gomes,Urbana,Pública,0.0,16.7,66.7,16.6
+2020,Norte,AP,1600238,Ferreira Gomes,Rural,Pública,42.9,0.0,57.1,0.0
+2020,Norte,AP,1600253,Itaubal,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600253,Itaubal,Rural,Estadual,85.7,14.3,0.0,0.0
+2020,Norte,AP,1600253,Itaubal,Urbana,Municipal,33.3,66.7,0.0,0.0
+2020,Norte,AP,1600253,Itaubal,Rural,Municipal,50.0,18.8,12.5,18.7
+2020,Norte,AP,1600253,Itaubal,Rural,Privada,100.0,0.0,0.0,0.0
+2020,Norte,AP,1600253,Itaubal,Urbana,Pública,25.0,50.0,25.0,0.0
+2020,Norte,AP,1600253,Itaubal,Rural,Pública,60.9,17.4,8.7,13.0
+2020,Norte,AP,1600279,Laranjal do Jari,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600279,Laranjal do Jari,Urbana,Estadual,0.0,10.0,80.0,10.0
+2020,Norte,AP,1600279,Laranjal do Jari,Rural,Estadual,13.3,6.7,13.3,66.7
+2020,Norte,AP,1600279,Laranjal do Jari,Urbana,Municipal,6.7,46.7,46.6,0.0
+2020,Norte,AP,1600279,Laranjal do Jari,Rural,Municipal,10.0,80.0,10.0,0.0
+2020,Norte,AP,1600279,Laranjal do Jari,Urbana,Privada,50.0,0.0,50.0,0.0
+2020,Norte,AP,1600279,Laranjal do Jari,Urbana,Pública,3.8,34.6,57.7,3.9
+2020,Norte,AP,1600279,Laranjal do Jari,Rural,Pública,12.5,25.0,12.5,50.0
+2020,Norte,AP,1600303,Macapá,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600303,Macapá,Urbana,Estadual,3.6,9.6,69.9,16.9
+2020,Norte,AP,1600303,Macapá,Rural,Estadual,34.2,25.3,32.9,7.6
+2020,Norte,AP,1600303,Macapá,Urbana,Municipal,8.0,52.0,38.0,2.0
+2020,Norte,AP,1600303,Macapá,Rural,Municipal,20.7,44.8,34.5,0.0
+2020,Norte,AP,1600303,Macapá,Urbana,Privada,11.4,34.3,51.4,2.9
+2020,Norte,AP,1600303,Macapá,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600303,Macapá,Urbana,Pública,5.2,26.1,57.5,11.2
+2020,Norte,AP,1600303,Macapá,Rural,Pública,30.6,30.6,33.3,5.5
+2020,Norte,AP,1600402,Mazagão,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,AP,1600402,Mazagão,Rural,Estadual,52.9,35.3,11.8,0.0
+2020,Norte,AP,1600402,Mazagão,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,AP,1600402,Mazagão,Rural,Municipal,45.0,27.5,20.0,7.5
+2020,Norte,AP,1600402,Mazagão,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600402,Mazagão,Rural,Privada,50.0,50.0,0.0,0.0
+2020,Norte,AP,1600402,Mazagão,Urbana,Pública,0.0,11.1,55.6,33.3
+2020,Norte,AP,1600402,Mazagão,Rural,Pública,47.4,29.8,17.5,5.3
+2020,Norte,AP,1600501,Oiapoque,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600501,Oiapoque,Rural,Estadual,8.3,16.7,54.2,20.8
+2020,Norte,AP,1600501,Oiapoque,Urbana,Municipal,0.0,28.6,71.4,0.0
+2020,Norte,AP,1600501,Oiapoque,Rural,Municipal,7.1,35.7,35.7,21.5
+2020,Norte,AP,1600501,Oiapoque,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,AP,1600501,Oiapoque,Urbana,Pública,0.0,22.2,77.8,0.0
+2020,Norte,AP,1600501,Oiapoque,Rural,Pública,7.9,23.7,47.4,21.0
+2020,Norte,AP,1600535,Porto Grande,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600535,Porto Grande,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600535,Porto Grande,Rural,Estadual,27.3,18.2,36.4,18.1
+2020,Norte,AP,1600535,Porto Grande,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,AP,1600535,Porto Grande,Rural,Municipal,0.0,40.0,50.0,10.0
+2020,Norte,AP,1600535,Porto Grande,Urbana,Pública,0.0,22.2,77.8,0.0
+2020,Norte,AP,1600535,Porto Grande,Rural,Pública,14.3,28.6,42.9,14.2
+2020,Norte,AP,1600550,Pracuúba,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600550,Pracuúba,Rural,Estadual,40.0,20.0,40.0,0.0
+2020,Norte,AP,1600550,Pracuúba,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600550,Pracuúba,Rural,Municipal,0.0,0.0,20.0,80.0
+2020,Norte,AP,1600550,Pracuúba,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600550,Pracuúba,Rural,Pública,20.0,10.0,30.0,40.0
+2020,Norte,AP,1600600,Santana,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,AP,1600600,Santana,Urbana,Estadual,4.0,16.0,60.0,20.0
+2020,Norte,AP,1600600,Santana,Rural,Estadual,21.4,42.9,28.6,7.1
+2020,Norte,AP,1600600,Santana,Urbana,Municipal,14.3,57.1,28.6,0.0
+2020,Norte,AP,1600600,Santana,Rural,Municipal,40.0,50.0,10.0,0.0
+2020,Norte,AP,1600600,Santana,Urbana,Privada,0.0,20.0,30.0,50.0
+2020,Norte,AP,1600600,Santana,Urbana,Pública,8.5,34.0,46.8,10.7
+2020,Norte,AP,1600600,Santana,Rural,Pública,29.2,45.8,20.8,4.2
+2020,Norte,AP,1600709,Tartarugalzinho,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,AP,1600709,Tartarugalzinho,Rural,Estadual,42.9,38.1,14.3,4.7
+2020,Norte,AP,1600709,Tartarugalzinho,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,AP,1600709,Tartarugalzinho,Rural,Municipal,6.7,40.0,46.7,6.6
+2020,Norte,AP,1600709,Tartarugalzinho,Rural,Privada,100.0,0.0,0.0,0.0
+2020,Norte,AP,1600709,Tartarugalzinho,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,AP,1600709,Tartarugalzinho,Rural,Pública,27.8,38.9,27.8,5.5
+2020,Norte,AP,1600808,Vitória do Jari,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,AP,1600808,Vitória do Jari,Rural,Estadual,100.0,0.0,0.0,0.0
+2020,Norte,AP,1600808,Vitória do Jari,Urbana,Municipal,0.0,20.0,70.0,10.0
+2020,Norte,AP,1600808,Vitória do Jari,Rural,Municipal,15.4,38.5,46.1,0.0
+2020,Norte,AP,1600808,Vitória do Jari,Urbana,Pública,0.0,25.0,66.7,8.3
+2020,Norte,AP,1600808,Vitória do Jari,Rural,Pública,21.4,35.7,42.9,0.0
+2020,Norte,TO,1700251,Abreulândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700251,Abreulândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700251,Abreulândia,Rural,Municipal,0.0,50.0,0.0,50.0
+2020,Norte,TO,1700251,Abreulândia,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700251,Abreulândia,Rural,Pública,0.0,50.0,0.0,50.0
+2020,Norte,TO,1700301,Aguiarnópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700301,Aguiarnópolis,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700301,Aguiarnópolis,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700350,Aliança do Tocantins,Urbana,Estadual,0.0,75.0,25.0,0.0
+2020,Norte,TO,1700350,Aliança do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1700350,Aliança do Tocantins,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1700400,Almas,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1700400,Almas,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1700400,Almas,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,TO,1700400,Almas,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1700400,Almas,Urbana,Pública,0.0,57.1,42.9,0.0
+2020,Norte,TO,1700400,Almas,Rural,Pública,0.0,25.0,0.0,75.0
+2020,Norte,TO,1700707,Alvorada,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,TO,1700707,Alvorada,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,TO,1700707,Alvorada,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,TO,1700707,Alvorada,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1701002,Ananás,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,TO,1701002,Ananás,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1701002,Ananás,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1701002,Ananás,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1701002,Ananás,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1701002,Ananás,Rural,Pública,0.0,50.0,0.0,50.0
+2020,Norte,TO,1701051,Angico,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701051,Angico,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701051,Angico,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701101,Aparecida do Rio Negro,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1701101,Aparecida do Rio Negro,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701101,Aparecida do Rio Negro,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1701309,Aragominas,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701309,Aragominas,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701309,Aragominas,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1701309,Aragominas,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701309,Aragominas,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1701903,Araguacema,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1701903,Araguacema,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1701903,Araguacema,Rural,Municipal,0.0,0.0,75.0,25.0
+2020,Norte,TO,1701903,Araguacema,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,TO,1701903,Araguacema,Rural,Pública,0.0,0.0,75.0,25.0
+2020,Norte,TO,1702000,Araguaçu,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,TO,1702000,Araguaçu,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702000,Araguaçu,Rural,Municipal,50.0,0.0,0.0,50.0
+2020,Norte,TO,1702000,Araguaçu,Urbana,Pública,0.0,14.3,85.7,0.0
+2020,Norte,TO,1702000,Araguaçu,Rural,Pública,50.0,0.0,0.0,50.0
+2020,Norte,TO,1702109,Araguaína,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702109,Araguaína,Urbana,Estadual,0.0,25.8,74.2,0.0
+2020,Norte,TO,1702109,Araguaína,Urbana,Municipal,7.1,37.5,53.6,1.8
+2020,Norte,TO,1702109,Araguaína,Rural,Municipal,23.1,23.1,53.8,0.0
+2020,Norte,TO,1702109,Araguaína,Urbana,Privada,9.7,22.6,48.4,19.3
+2020,Norte,TO,1702109,Araguaína,Urbana,Pública,4.5,33.0,61.4,1.1
+2020,Norte,TO,1702109,Araguaína,Rural,Pública,23.1,23.1,53.8,0.0
+2020,Norte,TO,1702158,Araguanã,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702158,Araguanã,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702158,Araguanã,Rural,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1702158,Araguanã,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702158,Araguanã,Rural,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1702208,Araguatins,Rural,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702208,Araguatins,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1702208,Araguatins,Rural,Estadual,0.0,0.0,75.0,25.0
+2020,Norte,TO,1702208,Araguatins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702208,Araguatins,Rural,Municipal,0.0,25.0,31.3,43.7
+2020,Norte,TO,1702208,Araguatins,Urbana,Privada,25.0,50.0,25.0,0.0
+2020,Norte,TO,1702208,Araguatins,Urbana,Pública,0.0,30.0,70.0,0.0
+2020,Norte,TO,1702208,Araguatins,Rural,Pública,0.0,19.0,42.9,38.1
+2020,Norte,TO,1702307,Arapoema,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702307,Arapoema,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1702307,Arapoema,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,TO,1702307,Arapoema,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,TO,1702406,Arraias,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1702406,Arraias,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702406,Arraias,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702406,Arraias,Rural,Municipal,27.3,18.2,27.3,27.2
+2020,Norte,TO,1702406,Arraias,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702406,Arraias,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1702406,Arraias,Rural,Pública,23.1,15.4,38.5,23.0
+2020,Norte,TO,1702554,Augustinópolis,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,TO,1702554,Augustinópolis,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702554,Augustinópolis,Urbana,Municipal,0.0,16.7,83.3,0.0
+2020,Norte,TO,1702554,Augustinópolis,Rural,Municipal,25.0,37.5,25.0,12.5
+2020,Norte,TO,1702554,Augustinópolis,Urbana,Privada,33.3,66.7,0.0,0.0
+2020,Norte,TO,1702554,Augustinópolis,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,TO,1702554,Augustinópolis,Rural,Pública,22.2,33.3,33.3,11.2
+2020,Norte,TO,1702703,Aurora do Tocantins,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1702703,Aurora do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1702703,Aurora do Tocantins,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Urbana,Municipal,11.1,55.6,33.3,0.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Rural,Municipal,15.4,15.4,69.2,0.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Urbana,Privada,100.0,0.0,0.0,0.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Urbana,Pública,9.1,45.5,36.4,9.0
+2020,Norte,TO,1702901,Axixá do Tocantins,Rural,Pública,15.4,15.4,69.2,0.0
+2020,Norte,TO,1703008,Babaçulândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703008,Babaçulândia,Urbana,Municipal,0.0,0.0,75.0,25.0
+2020,Norte,TO,1703008,Babaçulândia,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1703008,Babaçulândia,Urbana,Pública,0.0,0.0,83.3,16.7
+2020,Norte,TO,1703008,Babaçulândia,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1703057,Bandeirantes do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703057,Bandeirantes do Tocantins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1703057,Bandeirantes do Tocantins,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1703057,Bandeirantes do Tocantins,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1703057,Bandeirantes do Tocantins,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703073,Barra do Ouro,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703107,Barrolândia,Urbana,Estadual,0.0,0.0,75.0,25.0
+2020,Norte,TO,1703107,Barrolândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703107,Barrolândia,Urbana,Pública,0.0,0.0,83.3,16.7
+2020,Norte,TO,1703206,Bernardo Sayão,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703206,Bernardo Sayão,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1703206,Bernardo Sayão,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1703206,Bernardo Sayão,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1703206,Bernardo Sayão,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1703305,Bom Jesus do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703305,Bom Jesus do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703305,Bom Jesus do Tocantins,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703305,Bom Jesus do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703305,Bom Jesus do Tocantins,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703602,Brasilândia do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703602,Brasilândia do Tocantins,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1703602,Brasilândia do Tocantins,Urbana,Pública,0.0,0.0,25.0,75.0
+2020,Norte,TO,1703701,Brejinho de Nazaré,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1703701,Brejinho de Nazaré,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1703701,Brejinho de Nazaré,Rural,Municipal,100.0,0.0,0.0,0.0
+2020,Norte,TO,1703701,Brejinho de Nazaré,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,TO,1703701,Brejinho de Nazaré,Rural,Pública,100.0,0.0,0.0,0.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Rural,Municipal,0.0,25.0,75.0,0.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703800,Buriti do Tocantins,Rural,Pública,0.0,16.7,50.0,33.3
+2020,Norte,TO,1703826,Cachoeirinha,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703826,Cachoeirinha,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1703826,Cachoeirinha,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1703842,Campos Lindos,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703842,Campos Lindos,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703842,Campos Lindos,Rural,Municipal,28.6,14.3,57.1,0.0
+2020,Norte,TO,1703842,Campos Lindos,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703842,Campos Lindos,Rural,Pública,28.6,14.3,57.1,0.0
+2020,Norte,TO,1703867,Cariri do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703867,Cariri do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703867,Cariri do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703883,Carmolândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703883,Carmolândia,Urbana,Municipal,0.0,33.3,33.3,33.4
+2020,Norte,TO,1703883,Carmolândia,Urbana,Pública,0.0,25.0,50.0,25.0
+2020,Norte,TO,1703891,Carrasco Bonito,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703891,Carrasco Bonito,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703891,Carrasco Bonito,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1703891,Carrasco Bonito,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703891,Carrasco Bonito,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1703891,Carrasco Bonito,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703909,Caseara,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703909,Caseara,Urbana,Municipal,0.0,33.3,33.3,33.4
+2020,Norte,TO,1703909,Caseara,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1703909,Caseara,Urbana,Pública,0.0,20.0,60.0,20.0
+2020,Norte,TO,1703909,Caseara,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1704105,Centenário,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1704105,Centenário,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1704105,Centenário,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1704105,Centenário,Urbana,Pública,0.0,33.3,33.3,33.4
+2020,Norte,TO,1704105,Centenário,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1704600,Chapada de Areia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1704600,Chapada de Areia,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705102,Chapada da Natividade,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705102,Chapada da Natividade,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1705102,Chapada da Natividade,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1705508,Colinas do Tocantins,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1705508,Colinas do Tocantins,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,TO,1705508,Colinas do Tocantins,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705508,Colinas do Tocantins,Urbana,Municipal,7.7,15.4,69.2,7.7
+2020,Norte,TO,1705508,Colinas do Tocantins,Urbana,Privada,0.0,66.7,33.3,0.0
+2020,Norte,TO,1705508,Colinas do Tocantins,Urbana,Pública,4.5,22.7,68.2,4.6
+2020,Norte,TO,1705508,Colinas do Tocantins,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705557,Combinado,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705557,Combinado,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705557,Combinado,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1705607,Conceição do Tocantins,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1705607,Conceição do Tocantins,Urbana,Municipal,66.7,0.0,33.3,0.0
+2020,Norte,TO,1705607,Conceição do Tocantins,Urbana,Pública,50.0,0.0,25.0,25.0
+2020,Norte,TO,1706001,Couto Magalhães,Urbana,Estadual,0.0,0.0,66.7,33.3
+2020,Norte,TO,1706001,Couto Magalhães,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706001,Couto Magalhães,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1706001,Couto Magalhães,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706001,Couto Magalhães,Urbana,Pública,0.0,20.0,60.0,20.0
+2020,Norte,TO,1706001,Couto Magalhães,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706100,Cristalândia,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,TO,1706100,Cristalândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706100,Cristalândia,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,TO,1706258,Crixás do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706258,Crixás do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706258,Crixás do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706506,Darcinópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706506,Darcinópolis,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706506,Darcinópolis,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1706506,Darcinópolis,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1706506,Darcinópolis,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1707009,Dianópolis,Rural,Federal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1707009,Dianópolis,Urbana,Estadual,0.0,40.0,60.0,0.0
+2020,Norte,TO,1707009,Dianópolis,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707009,Dianópolis,Urbana,Municipal,12.5,50.0,37.5,0.0
+2020,Norte,TO,1707009,Dianópolis,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1707009,Dianópolis,Urbana,Pública,7.7,46.2,46.1,0.0
+2020,Norte,TO,1707009,Dianópolis,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1707108,Divinópolis do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707108,Divinópolis do Tocantins,Urbana,Municipal,0.0,20.0,60.0,20.0
+2020,Norte,TO,1707108,Divinópolis do Tocantins,Urbana,Pública,0.0,14.3,71.4,14.3
+2020,Norte,TO,1707207,Dois Irmãos do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707207,Dois Irmãos do Tocantins,Urbana,Municipal,50.0,0.0,50.0,0.0
+2020,Norte,TO,1707207,Dois Irmãos do Tocantins,Rural,Municipal,0.0,20.0,40.0,40.0
+2020,Norte,TO,1707207,Dois Irmãos do Tocantins,Urbana,Pública,25.0,0.0,75.0,0.0
+2020,Norte,TO,1707207,Dois Irmãos do Tocantins,Rural,Pública,0.0,20.0,40.0,40.0
+2020,Norte,TO,1707306,Dueré,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707306,Dueré,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707306,Dueré,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707405,Esperantina,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1707405,Esperantina,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707405,Esperantina,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707405,Esperantina,Rural,Municipal,11.1,0.0,55.6,33.3
+2020,Norte,TO,1707405,Esperantina,Urbana,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1707405,Esperantina,Rural,Pública,9.1,0.0,63.6,27.3
+2020,Norte,TO,1707553,Fátima,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707553,Fátima,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707553,Fátima,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707652,Figueirópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707652,Figueirópolis,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707652,Figueirópolis,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707702,Filadélfia,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1707702,Filadélfia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1707702,Filadélfia,Rural,Municipal,11.1,33.3,44.4,11.2
+2020,Norte,TO,1707702,Filadélfia,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1707702,Filadélfia,Rural,Pública,11.1,33.3,44.4,11.2
+2020,Norte,TO,1708205,Formoso do Araguaia,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Urbana,Estadual,0.0,25.0,75.0,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Rural,Estadual,14.3,28.6,57.1,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Urbana,Municipal,50.0,16.7,33.3,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Urbana,Pública,27.3,27.3,45.4,0.0
+2020,Norte,TO,1708205,Formoso do Araguaia,Rural,Pública,11.1,33.3,55.6,0.0
+2020,Norte,TO,1708254,Fortaleza do Tabocão,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1708254,Fortaleza do Tabocão,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1708254,Fortaleza do Tabocão,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1708304,Goianorte,Urbana,Estadual,0.0,66.7,33.3,0.0
+2020,Norte,TO,1708304,Goianorte,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1708304,Goianorte,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1708304,Goianorte,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,TO,1708304,Goianorte,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709005,Goiatins,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1709005,Goiatins,Rural,Estadual,20.0,30.0,50.0,0.0
+2020,Norte,TO,1709005,Goiatins,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1709005,Goiatins,Rural,Municipal,20.0,20.0,60.0,0.0
+2020,Norte,TO,1709005,Goiatins,Urbana,Pública,0.0,0.0,60.0,40.0
+2020,Norte,TO,1709005,Goiatins,Rural,Pública,20.0,25.0,55.0,0.0
+2020,Norte,TO,1709302,Guaraí,Urbana,Estadual,0.0,42.9,57.1,0.0
+2020,Norte,TO,1709302,Guaraí,Urbana,Municipal,0.0,33.3,50.0,16.7
+2020,Norte,TO,1709302,Guaraí,Rural,Municipal,50.0,0.0,50.0,0.0
+2020,Norte,TO,1709302,Guaraí,Urbana,Privada,0.0,0.0,50.0,50.0
+2020,Norte,TO,1709302,Guaraí,Urbana,Pública,0.0,38.5,53.8,7.7
+2020,Norte,TO,1709302,Guaraí,Rural,Pública,50.0,0.0,50.0,0.0
+2020,Norte,TO,1709500,Gurupi,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709500,Gurupi,Urbana,Estadual,5.6,33.3,55.6,5.5
+2020,Norte,TO,1709500,Gurupi,Urbana,Municipal,15.8,52.6,26.3,5.3
+2020,Norte,TO,1709500,Gurupi,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1709500,Gurupi,Urbana,Privada,4.5,22.7,54.5,18.3
+2020,Norte,TO,1709500,Gurupi,Urbana,Pública,10.5,42.1,42.1,5.3
+2020,Norte,TO,1709500,Gurupi,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1709807,Ipueiras,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709807,Ipueiras,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709807,Ipueiras,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709807,Ipueiras,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1709807,Ipueiras,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1710508,Itacajá,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1710508,Itacajá,Rural,Estadual,0.0,80.0,20.0,0.0
+2020,Norte,TO,1710508,Itacajá,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1710508,Itacajá,Rural,Municipal,0.0,0.0,75.0,25.0
+2020,Norte,TO,1710508,Itacajá,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1710508,Itacajá,Rural,Pública,0.0,57.1,35.7,7.2
+2020,Norte,TO,1710706,Itaguatins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1710706,Itaguatins,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1710706,Itaguatins,Rural,Municipal,0.0,37.5,25.0,37.5
+2020,Norte,TO,1710706,Itaguatins,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1710706,Itaguatins,Rural,Pública,0.0,37.5,25.0,37.5
+2020,Norte,TO,1710904,Itapiratins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1710904,Itapiratins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1710904,Itapiratins,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1710904,Itapiratins,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1710904,Itapiratins,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711100,Itaporã do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711100,Itaporã do Tocantins,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1711100,Itaporã do Tocantins,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1711506,Jaú do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711506,Jaú do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711506,Jaú do Tocantins,Rural,Municipal,0.0,0.0,33.3,66.7
+2020,Norte,TO,1711506,Jaú do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711506,Jaú do Tocantins,Rural,Pública,0.0,0.0,33.3,66.7
+2020,Norte,TO,1711803,Juarina,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711803,Juarina,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1711803,Juarina,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Urbana,Federal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Rural,Estadual,0.0,22.2,44.4,33.4
+2020,Norte,TO,1711902,Lagoa da Confusão,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1711902,Lagoa da Confusão,Rural,Pública,0.0,20.0,50.0,30.0
+2020,Norte,TO,1711951,Lagoa do Tocantins,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1711951,Lagoa do Tocantins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1711951,Lagoa do Tocantins,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,TO,1712009,Lajeado,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712009,Lajeado,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712009,Lajeado,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712009,Lajeado,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712009,Lajeado,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712157,Lavandeira,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712157,Lavandeira,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712157,Lavandeira,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712405,Lizarda,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712405,Lizarda,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712405,Lizarda,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712405,Lizarda,Rural,Municipal,0.0,33.3,0.0,66.7
+2020,Norte,TO,1712405,Lizarda,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712405,Lizarda,Rural,Pública,0.0,25.0,25.0,50.0
+2020,Norte,TO,1712454,Luzinópolis,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1712454,Luzinópolis,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712454,Luzinópolis,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1712504,Marianópolis do Tocantins,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1712504,Marianópolis do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712504,Marianópolis do Tocantins,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1712504,Marianópolis do Tocantins,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1712504,Marianópolis do Tocantins,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1712702,Mateiros,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712702,Mateiros,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712702,Mateiros,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1712702,Mateiros,Rural,Municipal,0.0,33.3,0.0,66.7
+2020,Norte,TO,1712702,Mateiros,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1712702,Mateiros,Rural,Pública,0.0,25.0,25.0,50.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1712801,Maurilândia do Tocantins,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Urbana,Estadual,0.0,71.4,28.6,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Urbana,Municipal,0.0,42.9,57.1,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Urbana,Privada,0.0,25.0,75.0,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Urbana,Pública,0.0,57.1,42.9,0.0
+2020,Norte,TO,1713205,Miracema do Tocantins,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713304,Miranorte,Urbana,Estadual,0.0,33.3,33.3,33.4
+2020,Norte,TO,1713304,Miranorte,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1713304,Miranorte,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1713304,Miranorte,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,TO,1713304,Miranorte,Urbana,Pública,0.0,71.4,14.3,14.3
+2020,Norte,TO,1713304,Miranorte,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1713601,Monte do Carmo,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1713601,Monte do Carmo,Rural,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1713601,Monte do Carmo,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713601,Monte do Carmo,Rural,Municipal,50.0,0.0,50.0,0.0
+2020,Norte,TO,1713601,Monte do Carmo,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1713601,Monte do Carmo,Rural,Pública,25.0,0.0,50.0,25.0
+2020,Norte,TO,1713700,Monte Santo do Tocantins,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1713700,Monte Santo do Tocantins,Rural,Municipal,0.0,33.3,33.3,33.4
+2020,Norte,TO,1713700,Monte Santo do Tocantins,Urbana,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1713700,Monte Santo do Tocantins,Rural,Pública,0.0,33.3,33.3,33.4
+2020,Norte,TO,1713809,Palmeiras do Tocantins,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713809,Palmeiras do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1713809,Palmeiras do Tocantins,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713809,Palmeiras do Tocantins,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1713809,Palmeiras do Tocantins,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1713957,Muricilândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1713957,Muricilândia,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1713957,Muricilândia,Rural,Municipal,33.3,33.3,33.4,0.0
+2020,Norte,TO,1713957,Muricilândia,Urbana,Pública,0.0,60.0,40.0,0.0
+2020,Norte,TO,1713957,Muricilândia,Rural,Pública,33.3,33.3,33.4,0.0
+2020,Norte,TO,1714203,Natividade,Urbana,Estadual,0.0,0.0,75.0,25.0
+2020,Norte,TO,1714203,Natividade,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1714203,Natividade,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1714203,Natividade,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1714203,Natividade,Urbana,Pública,0.0,14.3,71.4,14.3
+2020,Norte,TO,1714203,Natividade,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1714302,Nazaré,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714302,Nazaré,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714302,Nazaré,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714302,Nazaré,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714302,Nazaré,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714302,Nazaré,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714880,Nova Olinda,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1714880,Nova Olinda,Urbana,Municipal,0.0,33.3,50.0,16.7
+2020,Norte,TO,1714880,Nova Olinda,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1714880,Nova Olinda,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1714880,Nova Olinda,Urbana,Pública,0.0,22.2,33.3,44.5
+2020,Norte,TO,1714880,Nova Olinda,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1715002,Nova Rosalândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715002,Nova Rosalândia,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715002,Nova Rosalândia,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1715002,Nova Rosalândia,Urbana,Pública,0.0,0.0,75.0,25.0
+2020,Norte,TO,1715002,Nova Rosalândia,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715101,Novo Acordo,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1715101,Novo Acordo,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1715101,Novo Acordo,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715101,Novo Acordo,Urbana,Pública,0.0,25.0,50.0,25.0
+2020,Norte,TO,1715101,Novo Acordo,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715150,Novo Alegre,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715150,Novo Alegre,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715150,Novo Alegre,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715259,Novo Jardim,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715259,Novo Jardim,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715259,Novo Jardim,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715259,Novo Jardim,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715259,Novo Jardim,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715507,Oliveira de Fátima,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1715507,Oliveira de Fátima,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715507,Oliveira de Fátima,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1715705,Palmeirante,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715705,Palmeirante,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715705,Palmeirante,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1715705,Palmeirante,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715705,Palmeirante,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1715754,Palmeirópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715754,Palmeirópolis,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1715754,Palmeirópolis,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1715754,Palmeirópolis,Urbana,Pública,0.0,20.0,80.0,0.0
+2020,Norte,TO,1716109,Paraíso do Tocantins,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716109,Paraíso do Tocantins,Urbana,Estadual,0.0,30.0,70.0,0.0
+2020,Norte,TO,1716109,Paraíso do Tocantins,Urbana,Municipal,0.0,27.3,63.6,9.1
+2020,Norte,TO,1716109,Paraíso do Tocantins,Rural,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1716109,Paraíso do Tocantins,Urbana,Privada,0.0,33.3,50.0,16.7
+2020,Norte,TO,1716109,Paraíso do Tocantins,Urbana,Pública,0.0,27.3,68.2,4.5
+2020,Norte,TO,1716109,Paraíso do Tocantins,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1716208,Paranã,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716208,Paranã,Rural,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1716208,Paranã,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,TO,1716208,Paranã,Rural,Municipal,0.0,30.8,38.5,30.7
+2020,Norte,TO,1716208,Paranã,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,TO,1716208,Paranã,Rural,Pública,0.0,26.7,40.0,33.3
+2020,Norte,TO,1716307,Pau D'Arco,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1716307,Pau D'Arco,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716307,Pau D'Arco,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1716307,Pau D'Arco,Urbana,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1716307,Pau D'Arco,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1716505,Pedro Afonso,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716505,Pedro Afonso,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716505,Pedro Afonso,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716505,Pedro Afonso,Urbana,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1716505,Pedro Afonso,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1716505,Pedro Afonso,Urbana,Privada,0.0,50.0,0.0,50.0
+2020,Norte,TO,1716505,Pedro Afonso,Urbana,Pública,0.0,0.0,85.7,14.3
+2020,Norte,TO,1716505,Pedro Afonso,Rural,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1716604,Peixe,Urbana,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1716604,Peixe,Urbana,Municipal,0.0,40.0,40.0,20.0
+2020,Norte,TO,1716604,Peixe,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1716604,Peixe,Urbana,Pública,0.0,28.6,42.9,28.5
+2020,Norte,TO,1716604,Peixe,Rural,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1716653,Pequizeiro,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716653,Pequizeiro,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716653,Pequizeiro,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1716653,Pequizeiro,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1716653,Pequizeiro,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1716703,Colméia,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,TO,1716703,Colméia,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1716703,Colméia,Urbana,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,TO,1716703,Colméia,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1716703,Colméia,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,TO,1716703,Colméia,Urbana,Pública,0.0,37.5,62.5,0.0
+2020,Norte,TO,1716703,Colméia,Rural,Pública,0.0,66.7,0.0,33.3
+2020,Norte,TO,1717008,Pindorama do Tocantins,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717008,Pindorama do Tocantins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1717008,Pindorama do Tocantins,Urbana,Pública,0.0,75.0,25.0,0.0
+2020,Norte,TO,1717206,Piraquê,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717206,Piraquê,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717206,Piraquê,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717206,Piraquê,Urbana,Pública,0.0,66.7,33.3,0.0
+2020,Norte,TO,1717206,Piraquê,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717503,Pium,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717503,Pium,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717503,Pium,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1717503,Pium,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717503,Pium,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Rural,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Rural,Municipal,0.0,25.0,50.0,25.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1717800,Ponte Alta do Bom Jesus,Rural,Pública,0.0,40.0,40.0,20.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Urbana,Municipal,0.0,66.7,33.3,0.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Urbana,Pública,0.0,40.0,60.0,0.0
+2020,Norte,TO,1717909,Ponte Alta do Tocantins,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718006,Porto Alegre do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718006,Porto Alegre do Tocantins,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1718006,Porto Alegre do Tocantins,Urbana,Pública,0.0,0.0,66.7,33.3
+2020,Norte,TO,1718204,Porto Nacional,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718204,Porto Nacional,Urbana,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,TO,1718204,Porto Nacional,Rural,Estadual,0.0,25.0,50.0,25.0
+2020,Norte,TO,1718204,Porto Nacional,Urbana,Municipal,6.7,80.0,13.3,0.0
+2020,Norte,TO,1718204,Porto Nacional,Rural,Municipal,0.0,41.7,41.7,16.6
+2020,Norte,TO,1718204,Porto Nacional,Urbana,Privada,14.3,42.9,14.3,28.5
+2020,Norte,TO,1718204,Porto Nacional,Rural,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718204,Porto Nacional,Urbana,Pública,3.6,57.1,39.3,0.0
+2020,Norte,TO,1718204,Porto Nacional,Rural,Pública,0.0,37.5,43.8,18.7
+2020,Norte,TO,1718303,Praia Norte,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718303,Praia Norte,Urbana,Municipal,33.3,0.0,66.7,0.0
+2020,Norte,TO,1718303,Praia Norte,Rural,Municipal,0.0,33.3,55.6,11.1
+2020,Norte,TO,1718303,Praia Norte,Urbana,Pública,20.0,20.0,60.0,0.0
+2020,Norte,TO,1718303,Praia Norte,Rural,Pública,0.0,33.3,55.6,11.1
+2020,Norte,TO,1718402,Presidente Kennedy,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718402,Presidente Kennedy,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1718402,Presidente Kennedy,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1718451,Pugmil,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718451,Pugmil,Urbana,Municipal,33.3,33.3,33.4,0.0
+2020,Norte,TO,1718451,Pugmil,Urbana,Pública,25.0,50.0,25.0,0.0
+2020,Norte,TO,1718501,Recursolândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718501,Recursolândia,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718501,Recursolândia,Rural,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718501,Recursolândia,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1718501,Recursolândia,Rural,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718550,Riachinho,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718550,Riachinho,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718550,Riachinho,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718550,Riachinho,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718550,Riachinho,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718659,Rio da Conceição,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718659,Rio da Conceição,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718659,Rio da Conceição,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718709,Rio dos Bois,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718709,Rio dos Bois,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718709,Rio dos Bois,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718709,Rio dos Bois,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718709,Rio dos Bois,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718758,Rio Sono,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718758,Rio Sono,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1718758,Rio Sono,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718758,Rio Sono,Rural,Municipal,0.0,40.0,60.0,0.0
+2020,Norte,TO,1718758,Rio Sono,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718758,Rio Sono,Rural,Pública,0.0,33.3,50.0,16.7
+2020,Norte,TO,1718808,Sampaio,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718808,Sampaio,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718808,Sampaio,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718808,Sampaio,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718808,Sampaio,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718840,Sandolândia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718840,Sandolândia,Rural,Estadual,0.0,33.3,66.7,0.0
+2020,Norte,TO,1718840,Sandolândia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718840,Sandolândia,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718840,Sandolândia,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718840,Sandolândia,Rural,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Rural,Municipal,20.0,20.0,40.0,20.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Urbana,Privada,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718865,Santa Fé do Araguaia,Rural,Pública,11.1,33.3,44.4,11.2
+2020,Norte,TO,1718881,Santa Maria do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718881,Santa Maria do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718881,Santa Maria do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1718899,Santa Rita do Tocantins,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718899,Santa Rita do Tocantins,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718899,Santa Rita do Tocantins,Rural,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1718899,Santa Rita do Tocantins,Urbana,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718899,Santa Rita do Tocantins,Rural,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Rural,Municipal,33.3,0.0,33.3,33.4
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Urbana,Pública,0.0,25.0,25.0,50.0
+2020,Norte,TO,1718907,Santa Rosa do Tocantins,Rural,Pública,33.3,0.0,33.3,33.4
+2020,Norte,TO,1719004,Santa Tereza do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1719004,Santa Tereza do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1719004,Santa Tereza do Tocantins,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1719004,Santa Tereza do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1719004,Santa Tereza do Tocantins,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720002,Santa Terezinha do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720002,Santa Terezinha do Tocantins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720002,Santa Terezinha do Tocantins,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1720002,Santa Terezinha do Tocantins,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1720002,Santa Terezinha do Tocantins,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1720101,São Bento do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720101,São Bento do Tocantins,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720101,São Bento do Tocantins,Urbana,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720101,São Bento do Tocantins,Rural,Municipal,0.0,0.0,66.7,33.3
+2020,Norte,TO,1720101,São Bento do Tocantins,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1720101,São Bento do Tocantins,Rural,Pública,0.0,0.0,71.4,28.6
+2020,Norte,TO,1720150,São Félix do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720150,São Félix do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720150,São Félix do Tocantins,Rural,Municipal,33.3,0.0,33.3,33.4
+2020,Norte,TO,1720150,São Félix do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720150,São Félix do Tocantins,Rural,Pública,33.3,0.0,33.3,33.4
+2020,Norte,TO,1720200,São Miguel do Tocantins,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720200,São Miguel do Tocantins,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720200,São Miguel do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720200,São Miguel do Tocantins,Rural,Municipal,9.1,72.7,9.1,9.1
+2020,Norte,TO,1720200,São Miguel do Tocantins,Urbana,Pública,0.0,0.0,50.0,50.0
+2020,Norte,TO,1720200,São Miguel do Tocantins,Rural,Pública,8.3,66.7,8.3,16.7
+2020,Norte,TO,1720259,São Salvador do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Rural,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Urbana,Municipal,50.0,0.0,50.0,0.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Urbana,Pública,33.3,0.0,66.7,0.0
+2020,Norte,TO,1720259,São Salvador do Tocantins,Rural,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1720309,São Sebastião do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720309,São Sebastião do Tocantins,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720309,São Sebastião do Tocantins,Rural,Municipal,33.3,33.3,0.0,33.4
+2020,Norte,TO,1720309,São Sebastião do Tocantins,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1720309,São Sebastião do Tocantins,Rural,Pública,33.3,33.3,0.0,33.4
+2020,Norte,TO,1720499,São Valério,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720499,São Valério,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720499,São Valério,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720499,São Valério,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1720499,São Valério,Rural,Pública,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720655,Silvanópolis,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720655,Silvanópolis,Urbana,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1720655,Silvanópolis,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1720655,Silvanópolis,Urbana,Pública,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720655,Silvanópolis,Rural,Pública,0.0,100.0,0.0,0.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Rural,Estadual,0.0,0.0,50.0,50.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Urbana,Municipal,0.0,33.3,66.7,0.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Rural,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Urbana,Pública,0.0,25.0,75.0,0.0
+2020,Norte,TO,1720804,Sítio Novo do Tocantins,Rural,Pública,0.0,14.3,71.4,14.3
+2020,Norte,TO,1720853,Sucupira,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720853,Sucupira,Urbana,Municipal,0.0,50.0,50.0,0.0
+2020,Norte,TO,1720853,Sucupira,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1720903,Taguatinga,Urbana,Estadual,0.0,33.3,33.3,33.4
+2020,Norte,TO,1720903,Taguatinga,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720903,Taguatinga,Rural,Municipal,20.0,20.0,20.0,40.0
+2020,Norte,TO,1720903,Taguatinga,Urbana,Privada,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720903,Taguatinga,Urbana,Pública,0.0,16.7,66.7,16.6
+2020,Norte,TO,1720903,Taguatinga,Rural,Pública,20.0,20.0,20.0,40.0
+2020,Norte,TO,1720937,Taipas do Tocantins,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720937,Taipas do Tocantins,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720937,Taipas do Tocantins,Urbana,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720978,Talismã,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1720978,Talismã,Urbana,Municipal,0.0,50.0,25.0,25.0
+2020,Norte,TO,1720978,Talismã,Rural,Municipal,0.0,0.0,0.0,100.0
+2020,Norte,TO,1720978,Talismã,Urbana,Pública,0.0,40.0,40.0,20.0
+2020,Norte,TO,1720978,Talismã,Rural,Pública,0.0,0.0,0.0,100.0
+2020,Norte,TO,1721000,Palmas,Urbana,Federal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721000,Palmas,Urbana,Estadual,0.0,43.5,56.5,0.0
+2020,Norte,TO,1721000,Palmas,Rural,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721000,Palmas,Urbana,Municipal,0.0,24.6,47.7,27.7
+2020,Norte,TO,1721000,Palmas,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721000,Palmas,Urbana,Privada,5.3,28.9,63.2,2.6
+2020,Norte,TO,1721000,Palmas,Urbana,Pública,0.0,29.2,50.6,20.2
+2020,Norte,TO,1721000,Palmas,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721109,Tocantínia,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721109,Tocantínia,Rural,Estadual,6.5,48.4,25.8,19.3
+2020,Norte,TO,1721109,Tocantínia,Urbana,Municipal,66.7,33.3,0.0,0.0
+2020,Norte,TO,1721109,Tocantínia,Rural,Municipal,0.0,50.0,0.0,50.0
+2020,Norte,TO,1721109,Tocantínia,Urbana,Pública,40.0,20.0,40.0,0.0
+2020,Norte,TO,1721109,Tocantínia,Rural,Pública,6.1,48.5,24.2,21.2
+2020,Norte,TO,1721208,Tocantinópolis,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1721208,Tocantinópolis,Rural,Estadual,0.0,30.0,50.0,20.0
+2020,Norte,TO,1721208,Tocantinópolis,Urbana,Municipal,0.0,11.1,77.8,11.1
+2020,Norte,TO,1721208,Tocantinópolis,Rural,Municipal,16.7,16.7,50.0,16.6
+2020,Norte,TO,1721208,Tocantinópolis,Urbana,Privada,0.0,50.0,50.0,0.0
+2020,Norte,TO,1721208,Tocantinópolis,Urbana,Pública,0.0,29.4,64.7,5.9
+2020,Norte,TO,1721208,Tocantinópolis,Rural,Pública,6.3,25.0,50.0,18.7
+2020,Norte,TO,1721257,Tupirama,Urbana,Estadual,0.0,100.0,0.0,0.0
+2020,Norte,TO,1721257,Tupirama,Urbana,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721257,Tupirama,Urbana,Pública,0.0,33.3,66.7,0.0
+2020,Norte,TO,1721307,Tupiratins,Urbana,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1721307,Tupiratins,Urbana,Municipal,0.0,0.0,50.0,50.0
+2020,Norte,TO,1721307,Tupiratins,Rural,Municipal,0.0,0.0,100.0,0.0
+2020,Norte,TO,1721307,Tupiratins,Urbana,Pública,0.0,0.0,33.3,66.7
+2020,Norte,TO,1721307,Tupiratins,Rural,Pública,0.0,0.0,100.0,0.0
+2020,Norte,TO,1722081,Wanderlândia,Urbana,Estadual,0.0,50.0,50.0,0.0
+2020,Norte,TO,1722081,Wanderlândia,Rural,Estadual,0.0,0.0,0.0,100.0
+2020,Norte,TO,1722081,Wanderlândia,Urbana,Municipal,0.0,25.0,25.0,50.0
+2020,Norte,TO,1722081,Wanderlândia,Rural,Municipal,0.0,20.0,60.0,20.0
+2020,Norte,TO,1722081,Wanderlândia,Urbana,Pública,0.0,33.3,33.3,33.4
+2020,Norte,TO,1722081,Wanderlândia,Rural,Pública,0.0,16.7,50.0,33.3
+2020,Norte,TO,1722107,Xambioá,Urbana,Estadual,0.0,0.0,100.0,0.0
+2020,Norte,TO,1722107,Xambioá,Urbana,Municipal,0.0,20.0,80.0,0.0
+2020,Norte,TO,1722107,Xambioá,Rural,Municipal,0.0,100.0,0.0,0.0
+2020,Norte,TO,1722107,Xambioá,Urbana,Privada,0.0,100.0,0.0,0.0
+2020,Norte,TO,1722107,Xambioá,Urbana,Pública,0.0,12.5,87.5,0.0
+2020,Norte,TO,1722107,Xambioá,Rural,Pública,0.0,100.0,0.0,0.0
